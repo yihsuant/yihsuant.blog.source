@@ -17,7 +17,7 @@ Happy Dragon Boat Festival
 
 ### Recent me
 
-<img src="/images/tech-logos/2016-09-02-191834_1.jpg" width="300" /img>
+<img src="/images/tech-logos/2016-09-02-191834-meitu-4.jpg" width="300" /img>
 
 ### Contact me
 
@@ -26,7 +26,7 @@ Happy Dragon Boat Festival
 
 ### ChangeLog
 
-- 2018-06-18 : yihsuan @Build Blog Page
+- 2018-06-18 : yihsuan @Build Blog
 - 2016-09-02 : yihsuan @Siam Niramit
 
 
