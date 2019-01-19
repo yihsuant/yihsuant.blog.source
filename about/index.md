@@ -10,7 +10,7 @@ p + p {
 
 ## About
 
-Happy Dragon Boat Festival
+我所擁有的都是僥倖，失去的都是人生
 <img src=/images/tw/main-progress-blue-dot.gif style="box-shadow:none; margin:0;height:16px">
 
 [ins]: https://www.instagram.com/uniso17_0202/
