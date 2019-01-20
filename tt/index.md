@@ -37,7 +37,7 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 > 
 > 有時候生活就是這樣，你一天不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
 
-心得感悟：
+通過這個劇：
 
 > 我更加相信，我們一定會 有能力，有智慧，有胸懷 來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 Fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛苦痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
 
@@ -45,3 +45,12 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 
 - [全部影集，請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)
 
+## Reference
+
+> 這個劇真的可以影響一個人的人生價值觀、親情友情觀、愛情觀..., 包含了許多人生哲理，同時摻雜著許多現實因素.
+> 
+> 我是怎樣遇見你們 ... , 描述了他在此過程中人生價值觀、親情友情觀、愛情觀的變化...
+> 
+> 
+
+- [友情爱情人生，《老爸老妈的浪漫史》经典台词句句戳心](https://www.jianshu.com/p/7425b4cd0594)
