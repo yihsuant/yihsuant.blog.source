@@ -7,7 +7,7 @@ date: 2019-01-19 22:05:21
 
 我已經很久很久沒有聯繫你了，最近发现一些新的故事、新的台詞、新的感悟，要和你 Share ... aaa
 
-記得我之前有推薦你一個影集 叫做 《How I met your mother》 簡稱 《How》，我昨天有看到第 10 集，發現劇中有類似我們的煩惱，他們竟然用一個  Pineapple 就可以完美化解憂愁和煩惱。所以我想和你 Share 這部。 讓我們也化解 move on, move on...
+記得我之前有推薦你一個影集 叫做 《How I met your mother》 簡稱 《How》，我昨天有看到第 10 集，發現劇中有類似我們的煩惱，他們竟然用一篇  Pineapple 就可以完美化解憂愁和煩惱。所以我想和你 Share 這部。 讓我們也化解 move on, move on...
 
 <img src="/tt/how10_tt6.jpeg" width="400" /img>
 
