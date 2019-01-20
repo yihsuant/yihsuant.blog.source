@@ -53,4 +53,4 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 
 我先去尋找一種 Fruit，找到后再和你 Share 共鑒， 作為一個慢慢恢復的良好開始吧... 🤝🤝🤝
 
-> - [影集請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)， 可影響一個人的價值觀、友情觀、愛情觀..., 包含蠻多人生哲理，同時摻雜現實.
+> - [全部影集，請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)， 真可影響一個人的價值觀、友情觀、愛情觀..., 包含蠻多人生哲理，同時摻雜現實因素.
