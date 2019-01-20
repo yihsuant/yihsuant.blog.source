@@ -37,16 +37,22 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 > 
 > 有時候生活就是這樣，你一天不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
 
+其他時間劇部的經典台詞：
+
+> The future is scary. But you can’t just run back to the past, because it’s familiar.
+>
+> 未來很可怕，但是你不能因為熟悉過去就一直待在原來的地方。
+>
+> You can't cling to the past, because no matter how tightly you hold on, it's already gone.
+>
+> 你不能對過去唸念不忘，因為無論你把回憶抓得多緊，它早已悄無聲息地消失。
+
 通過這個劇：
 
 > 我更加相信，我們一定會 有能力，有智慧，有胸懷 來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 Fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛苦痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
 
 我先去尋找一種 Fruit，找到后再和你 Share 共鑒， 作為一個慢慢恢復的良好開始吧... 🤝🤝🤝
 
-- [全部影集，請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)
-
-## Reference
-
+> - [全部影集，請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)
+>
 > 這部劇真的可以影響一個人的人生價值觀、親情友情觀、愛情觀..., 包含了許多人生哲理，同時摻雜著許多現實因素.
-> 
-> - [友情愛情人生，經典台詞句句戳心](https://www.jianshu.com/p/7425b4cd0594)
