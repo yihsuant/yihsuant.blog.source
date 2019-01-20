@@ -34,7 +34,7 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 > 有時候生活就是這樣，你一天不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
 
 
-我們一定會有智慧，有胸懷，有能力來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的太讓人痛心了。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
+我們一定會有智慧，有胸懷，有能力來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛苦痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
 
 我先去尋找一種 Fruit，過幾天和你 Share 共鑒， 作為一個慢慢恢復的良好開始吧... 🤝🤝🤝
 
