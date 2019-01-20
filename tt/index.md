@@ -35,7 +35,7 @@ So， 湯湯， 讓我們放下吧， 我放下了，你也放下吧. 你相信�
 and all your left with the next day is a bad hangover, ... and a pineapple.
 > Oh, we never found out where that pineapple came from, but it was delicious.
 > 
-> 有時候生活就是這樣，你一天不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
+> 有時候生活就是這樣，你一晚上不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
 
 其他時間劇部的經典台詞：
 
