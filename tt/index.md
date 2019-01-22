@@ -49,7 +49,7 @@ and all your left with the next day is a bad hangover, ... and a pineapple.
 
 湯湯，通過這個劇：
 
-> 我更加相信，我們一定會 有能力，有智慧，有胸懷 來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 Fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛苦痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
+> 我更加相信，我們一定會 有能力，有智慧，有胸懷 來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 Fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
 
 我先去尋找一種 Fruit，找到后再和你 Share 共鑒， 作為一個慢慢恢復的良好開始吧... 🤝🤝🤝
 
