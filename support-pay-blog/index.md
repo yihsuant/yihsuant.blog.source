@@ -1,9 +1,6 @@
 ---
 title: 博文的赞助方式
-toc: true
 date: 2017-11-05 20:05:21
-categories: tools
-tags: [pay]
 ---
 
 你的一点激励，可以鼓励作者写出更多的好文章，让更多的人喜欢，从中受益，构建一个良性的循环.
@@ -18,7 +15,7 @@ tags: [pay]
 
 1. 支付宝：
 <div class="tweetimg">
-<img src="/images/tools/pay-10.png" width="300" height="800"/img></div>
+<img src="/images/life/pay-10.png" width="300" height="800"/img></div>
 
 2. PayPal: 请点击[付款链接][2]
 
