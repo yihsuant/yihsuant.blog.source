@@ -23,8 +23,6 @@ date: 2019-01-19 22:05:21
 
 <img src="/tt/how10_tt3.jpeg" width="350" /img>
 
-So， 湯湯， 讓我們放下吧， 我放下了，你也放下吧. 你相信我吧;
-
 > Let's moved on. I moved on. you moved on. you believe me.
 
 <img src="/tt/how10_tt0.JPG" width="350" /img>
