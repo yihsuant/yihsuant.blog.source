@@ -1,5 +1,5 @@
 ---
-title: Shuping Yang's University of Maryland speech
+title: Shuping Yang's speech
 toc: true
 date: 2017-05-28 07:08:21
 categories: English
