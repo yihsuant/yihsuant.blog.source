@@ -16,7 +16,9 @@ less is more. 小勝靠智, 大智靠德.
 
 ### Recent me
 
-HIMYM 其實是理想化的生活，我們所羨慕的、所感動的.
+HIMYM 其實是理想化的生活，是我們所羨慕的、所感動的.
+
+<img src="/images/how/how_logo3.jpg" width="500" /img>
 
 HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生哲理，同時摻雜現實因素.
 
