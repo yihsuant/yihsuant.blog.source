@@ -23,10 +23,11 @@ date: 2018-01-29 16:20:48
 
 ## Reference
 
+- [How scripts][hs1]
 - [Engoo 线上英文家教][tw1]
-- [Engvid Real English: Taking care of your pet DOG!][v1]
-- [一般英文聽力練習方法][l1]
+- [Engvid: Taking care of your pet DOG!][v1]
 
+[hs1]: https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=how-i-met-your-mother
 [tw1]: https://engoo.com.tw/
 [v1]: /2017/11/02/engvid-Taking-care-of-your-pet/
 [l1]: /2018/01/28/english-listening-cindy-duoyi/
