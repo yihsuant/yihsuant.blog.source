@@ -32,7 +32,7 @@ HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生
 > You see, kids, there’s no way of knowing for sure where the safest place is… so the best you can hope for is to have some good company.
 >
 > 孩子們，你永遠沒法確定什麼地方最安全，所以你只能期望能有三兩好友陪在身旁。
->
+> &nbsp;
 > Whatever you do in this life, it's not legendary, unless your friends are there to see it.
 >
 > 無論你今生做什麼，沒有朋友在你身旁見證，就算不上是傳奇。
@@ -49,7 +49,7 @@ HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生
 >
 > 生活是充滿挑戰的。今天你還擁有一間公寓，但改天也許就變成餃子館了。但一些重要的東西是不會改變的。為那些重要的東西乾杯。
 
-**爱情篇:**
+**愛情觀：**
 
 > The early bloom of romantics is a wonderful thing. You meet someone, you have a connection, and that person becomes sheer perfection in your eyes. You just can’t find anything wrong with them. You can’t wait to tell the world about it.
 >
@@ -72,3 +72,5 @@ HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生
 
 - 2018-06-18 : yihsuan @Build Blog
 - 2016-09-02 : yihsuan @Siam Niramit
+
+<!--[Classic line @簡書](https://www.jianshu.com/p/7425b4cd0594)-->
