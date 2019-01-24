@@ -15,9 +15,12 @@ date: 2017-11-05 20:05:21
 
 1. 支付宝：
 <div class="tweetimg">
-<img src="/images/tech-logos/pay-10.png" width="300" height="800"/img></div>
+<img src="/images/tech-logos/pay_blog.png" width="200" /img>
+</div>
 
-2. PayPal: 请点击[付款链接][2]
+2. 微信：由于微信付款经常出问题，暂时停止使用。
+<br>
+3. PayPal: 请点击[付款链接][2]
 
 [1]: /images/tech-logos/pay-10.png
 [2]: https://www.paypal.com
