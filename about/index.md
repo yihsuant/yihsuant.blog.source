@@ -31,7 +31,7 @@ HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生
 
 > You see, kids, there’s no way of knowing for sure where the safest place is… so the best you can hope for is to have some good company.
 >
-> 孩子們，你永遠沒法確定什麼地方最安全，所以你只能期望能有三兩好友陪在身旁。
+> 你永遠沒法確定什麼地方最安全，所以你只能期望能有三兩好友陪在身旁。
 > &nbsp;
 > Whatever you do in this life, it's not legendary, unless your friends are there to see it.
 >
