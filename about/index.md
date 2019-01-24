@@ -10,7 +10,7 @@ p + p {
 
 ## About
 
-less is more. 小勝靠智, 大勝靠德. 
+less is more. 小勝靠智, 大勝靠德.
 
 [ins]: https://www.instagram.com//
 
