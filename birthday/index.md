@@ -10,16 +10,16 @@ p + p {
 
 ### Hi, Yihsuan
 
-Today is your birthday, Wishing you a be beautiful day full of love and happiness. 
+Today is your rebirth's day, Wishing you a be beautiful day full of love and happiness. 
 
-It will also opening a new year. a fabulous new life. your rebirth's day. You must be legendary.
+It will also opening a new year. a fabulous new life is coming. You must be legendary.
 
-Of course, as well as wish we have more and more growth and wisdom, it’s will also be legendary.
+Of course, as well as wish we have more growth and wisdom, it’s will also be legendary.
 
 
 [ins]: https://www.instagram.com//
 
-### Recent me
+### Recent wish
 
 <!-- <img src="/images/how/how_logo3.jpg" width="500" /img> -->
 <img src="/images/tools/happybirthday1.jpg" width="500" /img>
@@ -27,7 +27,7 @@ Of course, as well as wish we have more and more growth and wisdom, it’s will 
 <!--<img src="/images/tech-logos/2016-09-02-191834-meitu-4.jpg" width="200" /img>
 -->
 
-### Classic line
+### Music line
 
 <div align=life> 
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=100 src="https://music.163.com/outchain/player?type=2&id= 167876&auto=0&height=66"></iframe>
