@@ -10,7 +10,7 @@ p + p {
 
 ### Hi, Yihsuan
 
-Today is your rebirth's day, Wishing you a be beautiful day full of love and happiness. 
+Today is a special day, Wishing you a be beautiful day full of love and happiness. 
 
 It will also opening a new year. a fabulous new life is coming. You must be legendary.
 
