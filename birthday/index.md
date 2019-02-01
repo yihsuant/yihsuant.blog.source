@@ -33,6 +33,8 @@ Of course, as well as wish we have more growth and wisdom, it’s will also be l
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=100 src="https://music.163.com/outchain/player?type=2&id= 167876&auto=0&height=66"></iframe>
 </div>
 
+<embed src="/audio/xusong_pre.mp3" hidden="true" autostart="true"> 
+
 ### Contact me
 
 - You can find me in these ways: <a class="article-myEmail" href="http://www.klook.com/">  Email</a> <a class="article-myInstagram" href="https://www.instagram.com/"> Instagram</a>
