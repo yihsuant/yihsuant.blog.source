@@ -12,7 +12,7 @@ p + p {
 
 Today is your birthday, Wishing you a be beautiful day full of love and happiness. 
 
-It will also opening a new year. a fabulous new life. you are be reborn. You must be legendary.
+It will also opening a new year. a fabulous new life. your rebirth's day. You must be legendary.
 
 Of course, as well as wish we have more and more growth and wisdom, it’s will also be legendary.
 
