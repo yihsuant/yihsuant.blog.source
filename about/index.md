@@ -10,7 +10,7 @@ p + p {
 
 ## About
 
-less is more. 小勝靠智, 大勝靠德.
+只要看遠方，就能再鑒定信仰
 
 [ins]: https://www.instagram.com//
 

@@ -10,14 +10,9 @@ date: 2017-10-08 20:53:48
 
 ### Recent me
 
-HIMYM 其實是理想化的生活，是我們所羨慕的、所感動的.
+理想化的生活，是我們所羨慕的、所感動的.
 
-<img src="/images/how/how_logo3.jpg" width="500" /img>
-
-HIMYM 影響一個人的價值觀、友情觀、愛情觀…, 包含蠻多人生哲理，同時摻雜現實因素.
-
-<!--<img src="/images/tech-logos/2016-09-02-191834-meitu-4.jpg" width="200" /img>
--->
+當我們不再為眼前的生活所羈絆時, 靈魂也就更自由.
 
 ### Classic line
 
