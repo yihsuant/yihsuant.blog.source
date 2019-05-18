@@ -19,6 +19,13 @@ tags: New_Zealand
 
 16W学费/year？
 
+奥克兰大学硕士专业语言直升课程(英文全称为 EnglishPathway for Postgraduate Studies，缩写为 EPPS)
+
+> EPPS 课程主要是针对那些已经满足了奥克兰硕士专业学术要求，但语言方面略有不足的学生。
+> 
+> EPPS 课程能够确保学生获得未来本科，硕士甚至博士专业学习所需的英语语言能力与学术写作能力。
+> > 成功通过 EPPS 课程并达到相应的分数后，无需参加任何雅思考试即可进入奥克兰大学的专业课程进行学习。
+
 1. 奥克兰大学 2019 新生讨论群
 2. 新西兰高校申请文件分享群
 
@@ -28,7 +35,11 @@ tags: New_Zealand
 >
 > 专业定位表、MBTI 性格测试题库、新西兰可移民职业列表及清单、坎特伯雷地区紧缺清单、在读证明和成绩单中英文模板、PS 个人陈述中英文模板、CV 简历中英文模板、推荐信中英文模板。
 
+奥克兰大学国际留学生奖学金(University of Auckland International Student Scholarships)
 
+> 学生的生源国也会作为评选委员会的参考因素, maybe China 不会被选中.
+
+我们为大家提供了奥克兰大学申请交流群和校友群，请大家加我们工作人员微信，或者 关注我们的微信公众号、APP 来获取。
 
 [tu1]: https://cdn.auckland.ac.nz/aem/content/auckland/en/study/international-students/welcome-landing-pages/chinese/jcr:content/leftpar/imagecomponent/image.img.1024.medium.jpg/1477864095963.jpg
 
