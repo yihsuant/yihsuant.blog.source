@@ -22,7 +22,7 @@ Of course, as well as wish we have more growth and wisdom, it’s will also be l
 ### Recent wish
 
 <!-- <img src="/images/how/how_logo3.jpg" width="500" /img> -->
-<img src="/images/tools/happybirthday1.jpg" width="500" /img>
+<img src="/images/logos/happybirthday1.jpg" width="500" /img>
 
 <!--<img src="/images/tech-logos/2016-09-02-191834-meitu-4.jpg" width="200" /img>
 -->

@@ -16,7 +16,7 @@ p + p {
 
 ### Recent me
 
-<img src="/images/tech-logos/2016-09-02-191834-meitu-4.jpg" width="300" /img>
+<img src="/images/logos/2016-09-02-191834-meitu-4.jpg" width="300" /img>
 
 ### Classic Line
 

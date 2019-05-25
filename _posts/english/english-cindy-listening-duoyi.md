@@ -7,9 +7,11 @@ categories: English
 toc: true
 ---
 
-多益 以及 一般英文聽力加強 | 和Cindy學英文 笔记
+<img src="/images/english/english-listening-logo-2.jpg" width="550" alt="一般英文聽力加強" />
 
 <!-- more -->
+
+多益 以及 一般英文聽力加強 | 和Cindy學英文 笔记
 
 ## 練習聽力
 

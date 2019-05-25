@@ -2,14 +2,16 @@
 title: Lucy地道美语 英语国际音标
 toc: true
 date: 2018-01-03 10:59:21
-categories: ielts
+categories: English
 tags: IELTS
 ---
 
-- 一定要不断重复，不要相信自己的耳朵，要相信音标
-- 最开始练习，一定要超级夸张，一个音一个音读
+<img src="/images/english/english-symbols.jpg" width="550" alt="英语国际音标" />
 
 <!--more-->
+
+- 一定要不断重复，不要相信自己的耳朵，要相信音标
+- 最开始练习，一定要超级夸张，一个音一个音读
 
 ## 1. 分组元音
 
