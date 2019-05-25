@@ -1,13 +1,12 @@
 ---
-title: Auckland New Zealand
+title: New Zealand Study Abroad
 toc: true
 date: 2019-05-17 21:31:48
 categories: Auckland 
 tags: New_Zealand
 ---
 
-<img src="https://cdn.auckland.ac.nz/aem/content/auckland/en/study/international-students/welcome-landing-pages/chinese/jcr:content/leftpar/imagecomponent/image.img.1024.medium.jpg/1477864095963.jpg
-" width="550" alt="Auckland New Zealand" />
+<img src="/images/Auckland/Auckland-2.jpg" width="550" alt="Auckland New Zealand" />
 
 <!-- more -->
 

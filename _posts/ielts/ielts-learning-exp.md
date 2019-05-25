@@ -1,12 +1,12 @@
 ---
-title: IELTS Learning Experience
+title: IELTS Learning exp
 toc: true
 date: 2019-05-25 17:14:48
 categories: ielts
 tags: IELTS
 ---
 
-<img src="/images/ielts/ielts-logo-2.png" width="550" alt="The International English Language Testing System"/>
+<img src="/images/ielts/ielts-logo-2.png" width="550" alt="Are you ready?"/>
 
 <!-- more -->
 

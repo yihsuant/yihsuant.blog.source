@@ -6,7 +6,7 @@ categories: taiwan
 tags: Taiwan
 ---
 
-<img src="/images/taiwan/taiwan-trip-logo.jpg" width="550" border="0" alt="台灣旅行"/>
+<img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/>
 
 <!-- more -->
 
@@ -67,7 +67,7 @@ tags: Taiwan
 
 <img src="/images/trip/tw10.jpeg" width="500" />
 
-### 去东台湾看海：宜兰、花莲、台东、垦丁
+### 东台湾看海
 
 跟西部不同，台湾的东部海岸线更为壮阔
 沿海公路也是给力得很~
