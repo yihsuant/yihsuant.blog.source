@@ -7,10 +7,11 @@ categories: English
 toc: true
 ---
 
-a big fan of Halloween
+<img src="/images/how/how_logo3.jpg" width="550" alt="HIMYM S1E01"/>
 
 <!-- more -->
 
+a big fan of Halloween
 
 
 ## Reference

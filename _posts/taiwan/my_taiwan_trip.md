@@ -6,9 +6,11 @@ categories: taiwan
 tags: Taiwan
 ---
 
-去东台湾看海：台北、宜兰、花莲、台东、垦丁...
+<img src="/images/taiwan/taiwan-trip-logo.jpg" width="550" border="0" alt="台灣旅行"/>
 
 <!-- more -->
+
+去东台湾看海：台北、宜兰、花莲、台东、垦丁...
 
 ### 台湾特色
 

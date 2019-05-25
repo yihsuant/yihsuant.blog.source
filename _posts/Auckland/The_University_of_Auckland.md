@@ -1,13 +1,13 @@
 ---
-title: New Zealand
+title: Auckland New Zealand for Studying Abroad
 toc: true
 date: 2019-05-17 21:31:48
-categories: 
+categories: Auckland 
 tags: New_Zealand
 ---
 
 <img src="https://cdn.auckland.ac.nz/aem/content/auckland/en/study/international-students/welcome-landing-pages/chinese/jcr:content/leftpar/imagecomponent/image.img.1024.medium.jpg/1477864095963.jpg
-" width="550" />
+" width="550" alt="Auckland New Zealand" />
 
 <!-- more -->
 
@@ -16,8 +16,6 @@ tags: New_Zealand
 > 奥克兰大学:奥克兰大学是新西兰的“国宝级”大学，是新西兰顶级的教育学府。工程专业在新西兰数 一数二，值得有志于在工程方向发展的学生申请。
 >
 > 奥克兰大学:奥克兰大学的计算机专业涉及到计算机相关的设计开发以及计算机系统的使用，学生可以学习计算机编程、人工智能、数据运算等知识，毕业后就业前景广阔。
-
-16W学费/year？
 
 奥克兰大学硕士专业语言直升课程(英文全称为 EnglishPathway for Postgraduate Studies，缩写为 EPPS)
 
@@ -41,7 +39,7 @@ tags: New_Zealand
 
 > 学生的生源国也会作为评选委员会的参考因素, maybe China 不会被选中.
 
-我们为大家提供了奥克兰大学申请交流群和校友群，请大家加我们工作人员微信，或者 关注我们的微信公众号、APP 来获取。
+我们为大家提供了奥克兰大学申请交流群和校友群，请大家加我们工作人员微信，或者 关注我们的微信公众号。
 
 [tu1]: https://cdn.auckland.ac.nz/aem/content/auckland/en/study/international-students/welcome-landing-pages/chinese/jcr:content/leftpar/imagecomponent/image.img.1024.medium.jpg/1477864095963.jpg
 

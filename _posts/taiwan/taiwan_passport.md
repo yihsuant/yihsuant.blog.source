@@ -6,9 +6,11 @@ categories: taiwan
 tags: Taiwan
 ---
 
-网上关于大陆居民换台湾护照众说纷纭, 现我整理下网路上的文章，记录下通过什么途径可以拿到台湾护照？
+<a href="http://www.yihsuan.com/2018/09/05/taiwan/taiwan_passport/" target="_blank"><img src="/images/taiwan/taiwan-passport.jpg" width="550" border="0" alt="中華民國台灣"/></a>
 
 <!-- more -->
+
+网上关于大陆居民换台湾护照众说纷纭, 现我整理下网路上的文章，记录下通过什么途径可以拿到台湾护照？
 
 **中华民国(台湾) 护照条例施行细则第18条说到:**
 

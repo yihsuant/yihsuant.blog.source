@@ -6,9 +6,13 @@ categories: taiwan
 tags: Taiwan
 ---
 
-介紹 台灣和大陸 90左右時代的人成長經歷 以及 台灣腔和大陸腔的不同
+<a href="http://www.yihsuan.com/2019/01/12/taiwan/taiwanese_accent/" target="_blank"><img src="/images/taiwan/taiwan-logo-2.jpg" width="550" border="0" alt="台湾 vs 大陆"/></a>
+
+[id]: /images/taiwan/taiwan-logo-2.jpg "title"
 
 <!-- more -->
+
+介紹 台灣和大陸 90左右時代的人成長經歷 以及 台灣腔和大陸腔的不同
 
 ### 成长经历 (小学篇)
 
