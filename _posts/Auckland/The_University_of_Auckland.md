@@ -1,5 +1,5 @@
 ---
-title: Auckland New Zealand for Studying Abroad
+title: Auckland New Zealand
 toc: true
 date: 2019-05-17 21:31:48
 categories: Auckland 
