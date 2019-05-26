@@ -22,7 +22,7 @@ tags: IELTS
 
 1. YouTube & Bilibili 大B站，应有尽有.
 2. [www.chinaielts.org](www.chinaielts.org) 蛮多有用的东西.
-3. [ielts.kmf.com/home](http://ielts.kmf.com/web/index) 考满分网站, 其中 **听力词汇必备练习** 非常好，空了就去刷一个小时，锻炼你的手感.
+3. [ielts.kmf.com/home](http://ielts.kmf.com/) 考满分网站, 其中 **听力词汇必备练习** 非常好，空了就去刷一个小时，锻炼你的手感.
  
  
 ## 1. Listening Skills
