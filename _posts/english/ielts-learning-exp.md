@@ -72,6 +72,8 @@ Simon 句型:
 
 Writing 一个小时，一个小一个大
 
+- [小矮人Ellen IELTS Writing Task 1](https://www.youtube.com/watch?v=IVOcZXtwRbQ)
+- [小矮人Ellen IELTS Writing Task 2](https://www.youtube.com/watch?v=QkrOmYGYEXA)
 - [雅思写作7分+, 只需9个句型,10分钟教会你 L329](https://www.youtube.com/watch?v=FuZGaSbVx4c)
 - [雅思写作保7分,必备4个技能-资料下载 L299](https://www.youtube.com/watch?v=FApMg1uFYbE)
 
