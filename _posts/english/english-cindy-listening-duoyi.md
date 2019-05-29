@@ -7,7 +7,9 @@ categories: English
 toc: true
 ---
 
-<img src="/images/english/english-listening-logo-2.jpg" width="550" alt="一般英文聽力加強" />
+<a href="/2018/01/28/English/english-cindy-listening-duoyi/" target="_self" style="display:block; margin:0 auto; background:url('/images/english/english-listening-logo-2.jpg') no-repeat 0 0 / contain; height:309.38px; width:550px;"></a>
+
+<!--<img src="/images/english/english-listening-logo-2.jpg" width="550" alt="一般英文聽力加強" />-->
 
 <!-- more -->
 

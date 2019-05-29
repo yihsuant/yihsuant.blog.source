@@ -6,9 +6,11 @@ categories: taiwan
 tags: Taiwan
 ---
 
-<img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/>
+<a href="window.location.href" target="_self"><img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/></a>
 
 <!-- more -->
+
+<img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/>
 
 去东台湾看海：台北、宜兰、花莲、台东、垦丁...
 
