@@ -6,7 +6,7 @@ categories: taiwan
 tags: Taiwan
 ---
  
-<a href="http://www.yihsuan.com/2019/01/12/taiwan/taiwanese_accent/" target="_blank"><img src="/images/taiwan/taiwan-logo-2.jpg" width="550" border="0" alt="台湾 vs 大陆"/></a>
+<a href="http://www.yihsuan.com/2019/01/12/taiwan/taiwanese_accent/" target="_blank" style="display:block;margin:0 auto;background:url('/images/taiwan/taiwan-logo-2.jpg') no-repeat 0 0 / contain;height:360px;width:550px;"></a>
 
 <!--[![台湾 vs 大陆](/images/taiwan/taiwan-logo-2.jpg "title")](http://www.baidu.com)-->
 
