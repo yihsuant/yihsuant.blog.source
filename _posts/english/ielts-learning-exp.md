@@ -104,10 +104,11 @@ Writing 一个小时，一个小一个大
 - [雅思考试技巧！听力8分 首战7分 心得全面分享！- 渣渣自学2周的经验][3]
 - [Bilibili 雅思考试技巧！听力8分 首战7分][31]
 - [雅思考试, 全球哪里, 给分高？,泰国清迈IDP][4]
+- [小矮人Ellen 雅思口說技巧 ＋ 里茲螞蟻書推薦 | IELTS SPEAKING TIPS][5]
 
 [1]: https://www.aut.ac.nz/
 [2]: https://www.youtube.com/watch?v=_fJlFoZNT98
 [3]: https://www.youtube.com/watch?v=InNeP45EVb4
 [31]: https://www.bilibili.com/video/av43350119
 [4]: https://www.youtube.com/watch?v=5UP3Hy-feF8
-
+[5]: https://www.youtube.com/watch?v=Y7boSR4oIsc

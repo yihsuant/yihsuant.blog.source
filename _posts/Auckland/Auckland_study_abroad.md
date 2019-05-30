@@ -45,6 +45,19 @@ tags: New_Zealand
 ## Reference
 
 - [www.auckland.ac.nz][1]
+- [小矮人Ellen 出國留學該找代辦嗎？代辦不為人知的秘密!][2]
+- [The University of Auckland][3]
+- [The University of Auckland Chinese][4]
+- [Tuition fees][6]
+- [知乎： 奥克兰大学读硕士一年多少钱?][5]
+- [新加坡国立大学申请][7]
+- [Tuition fees 本地学生学费][8]
 
 [1]: https://www.auckland.ac.nz/en/study/international-students/welcome-landing-pages/chinese.html
-
+[2]: https://www.youtube.com/watch?v=tAetA8jEpos
+[3]: https://www.auckland.ac.nz/en.html
+[4]: https://www.auckland.ac.nz/en/study/international-students/welcome-landing-pages/chinese.html
+[5]: https://zhuanlan.zhihu.com/p/53605881
+[6]: https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees.html
+[7]: https://zhuanlan.zhihu.com/p/24571486
+[8]: https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/postgraduate-domestic-fees.html
