@@ -6,6 +6,8 @@ categories: taiwan
 tags: Taiwan
 ---
 
+<!--<a href="http://www.so.com" target="_blank"><img src="/images/taiwan/taiwan-passport.jpg" width="550" border="0" alt="中華民國台灣"/></a>
+-->
 <a href="/2018/09/05/taiwan/taiwan_passport/" target="_blank"><img src="/images/taiwan/taiwan-passport.jpg" width="550" border="0" alt="中華民國台灣"/></a>
 
 <!-- more -->
