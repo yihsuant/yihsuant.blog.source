@@ -16,7 +16,11 @@ p + p {
 
 ### Recent me
 
+<img src="/images/Auckland/Auckland-2.jpg" width="500" alt="Auckland New Zealand" />
+
+<!--
 <img src="/images/logos/2016-09-02-191834-meitu-4.jpg" width="300" /img>
+-->
 
 ### Classic Line
 
