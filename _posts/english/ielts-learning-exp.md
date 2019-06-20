@@ -36,7 +36,23 @@ tags: IELTS
 
 > 精听 > 听写单字
 > 
-> APP: 《每日英语听力》、《BBC学英语》，具有定时功能，要保证自己长时间沉侵在英文环境中.
+> APP: 《每日英语听力》、《BBC学英语》，《雅思王听力》 有定时功能，要保证自己长时间沉侵在英文环境.
+
+《雅思王听力》： [2019年雅思王听力语料库学习方法](https://ielts.guixue.com/article/6357.shtml)
+
+Saturday | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday
+:----: | :----: | :----: | :----: | :----: | :----: | :----:
+全天听写<br>5，11，3，4 | 改错，计算正确率<br>整理错题本 | 背诵错词<br>3.1-3.5<br>背诵11章 S1S4 | 背诵错词<br>3.6-4.1| 背诵错词<br>4.2-5.2 | 背诵错词<br>5.3-5.7 | 背诵错词<br>5.8-5.12<br>背诵11章 S2S3
+
+> first/second/third == 1.0/1.4/1.6 (Chapter 3, 4, 11)
+> 
+> (Chapter 5 == 1.0)
+> 
+> 背诵秘诀： 眼看单字+手抄单字+嘴读单字(跟CD) 同步进行
+> 
+> 背诵错字的时间 ： (周一到周五，21:00 ~ 22:30)
+> 
+> Target : 2019.06.22 ~ 2019.07.22 听写正确率在 85% 以上.
 
 ## 2. Reading Skills
 
@@ -54,6 +70,8 @@ tags: IELTS
  4. 哪个问题，答案在哪段是可以预知的
 
 > APP： 《墨墨背单字》、《知米背单词》、《Timing》， Reading 一共 40 题.
+> 
+> 2019.10.01 ~ 2019.11.15
  
 ## 3. Writing Skills
 
@@ -71,6 +89,8 @@ Simon 句型:
 > 总： 总结下观点
 
 Writing 一个小时，一个小一个大
+
+> 2019.07.22 ~ 2019.08.31
 
 - [小矮人Ellen IELTS Writing Task 1](https://www.youtube.com/watch?v=IVOcZXtwRbQ)
 - [小矮人Ellen IELTS Writing Task 2](https://www.youtube.com/watch?v=QkrOmYGYEXA)
@@ -96,6 +116,8 @@ Writing 一个小时，一个小一个大
 > Part3, 提前30天开始复习。
 > 
 > APP： 《雅思哥》
+> 
+> 2019.08.01 ~ 2019.09.01 ~ 2019.11.01
 
 ## Reference
 
