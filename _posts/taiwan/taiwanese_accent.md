@@ -2,7 +2,7 @@
 title: 台湾大陆成长经历对比
 toc: true
 date: 2019-01-12 8:26:48
-categories: taiwan
+categories: Taiwan
 tags: Taiwan
 ---
 
