@@ -44,7 +44,7 @@ tags: Taiwan
 ### 证件准备
 
 1. Passport
-2. China person card
+2. China Identity Card
 3. 台湾通行证 + G签注 + 入台证
 4. 台湾悠游卡黑熊限定 (711可买、711是萬能的)
 5. 台湾电话卡4G无限高速流量卡
