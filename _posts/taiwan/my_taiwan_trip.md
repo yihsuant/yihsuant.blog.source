@@ -68,7 +68,7 @@ tags: Taiwan
 
 ### 台湾图览
 
-<img src="/images/trip/tw10.jpeg" width="500" />
+<img src="/images/taiwan/trip/tw10.jpeg" width="500" />
 
 ### 东台湾看海
 
@@ -80,7 +80,7 @@ tags: Taiwan
 
 ### 行程总概 (台北、宜兰、花莲、台北)
 
-<img src="/images/trip/tw12_1.png" width="1000" />
+<img src="/images/taiwan/trip/tw12_1.png" width="1000" />
 
 6952301022230
 
@@ -149,7 +149,7 @@ No. | Date | Title | Del
 > 
 > 16点多开始游览南方澳，差不多1-2小时结束游览可以在这里吃饭，也可以坐计程车回苏澳站，坐台铁回宜兰吃晚饭
 
-<img src="/images/trip/tw-day3-1.jpeg" width="500" />
+<img src="/images/taiwan/trip/tw-day3-1.jpeg" width="500" />
 
 > 龟山岛、樱桃陵园 是比较远的. 可以选择舍弃，暂时不排进来.
 > 
@@ -195,13 +195,13 @@ No. | Date | Title | Del
 
 **Day1 台北 一 日游**
 
-<img src="/images/trip/tw7.jpeg" width="700" />
+<img src="/images/taiwan/trip/tw7.jpeg" width="700" />
 
-[img3]: /images/trip/tw3.jpg
-[img4]: /images/trip/tw4.jpg
-[img5]: /images/trip/tw5.jpg
-[img6]: /images/trip/tw6.jpg
-[img7]: /images/trip/tw7.jepg
+[img3]: /images/taiwan/trip/tw3.jpg
+[img4]: /images/taiwan/trip/tw4.jpg
+[img5]: /images/taiwan/trip/tw5.jpg
+[img6]: /images/taiwan/trip/tw6.jpg
+[img7]: /images/taiwan/trip/tw7.jepg
 
 平溪线+九份=十分，幸福
 
