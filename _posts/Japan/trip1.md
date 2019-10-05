@@ -1,5 +1,5 @@
 ---
-title: My Japan Travel Plan 🇯🇵🇯🇵🇯🇵
+title: Japan Travel Plan 🇯🇵🇯🇵🇯🇵
 toc: true
 date: 2019-08-21 22:46:48
 categories: Japan
