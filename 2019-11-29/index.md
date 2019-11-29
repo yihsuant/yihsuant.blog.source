@@ -29,7 +29,7 @@ p + p {
 >
 > 我理解你的關切和顧慮， 我一直都非常非常痛心，但是我知道時光再也不會回去了，所以我想以史為鑒，現在和未來做有意義的事，我希望你能來，或者不便我們可在溝通，你不想讓我帶你玩也沒關係，我就請你吃次好吃的 hotpot 也可. 
  
-當然也可有: 🇯🇵Dassi，royce，Ice Cream, Custard and Boboshake... [Beckon]
+當然也可有: 🇯🇵Dassi, royce, Ice Cream, Custard and Tea Boboshake... [Beckon]
 
 <!--<img style="border-radius:2%;" src="/images/food/2019-11-29.jpg" width="450"/>-->
 
