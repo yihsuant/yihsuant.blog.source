@@ -31,7 +31,7 @@ p + p {
  
 當然也可有的 🇯🇵Dassi，royce，Ice Cream, Custard and Boboshake... [Beckon]
 
-<img style="border-radius:2%;" src="/images/food/2019-11-29.jpg" width="450"/>
+<!--<img style="border-radius:2%;" src="/images/food/2019-11-29.jpg" width="450"/>-->
 
 ### Recent wish
 
