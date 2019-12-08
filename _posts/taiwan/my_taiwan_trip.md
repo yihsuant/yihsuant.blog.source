@@ -1,5 +1,5 @@
 ---
-title: Taiwan Travel Plan
+title: Taiwan Travel plan
 toc: true
 date: 2018-07-22 22:46:48
 categories: Taiwan

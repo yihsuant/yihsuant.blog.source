@@ -1,5 +1,5 @@
 ---
-title: Singapore Travel Plan 🇸🇬🇸🇬
+title: Singapore Travel plan 🇸🇬🇸🇬
 toc: true
 date: 2019-10-05 18:46:48
 categories: Singapore
