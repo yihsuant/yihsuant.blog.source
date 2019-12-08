@@ -35,13 +35,13 @@ DAY1-1： 感受首都吉隆坡的城市繁华，从热闹市井的茨厂街出�
 DAY2-3： 槟城里的乔治市，边搜寻美食，边看壁画。
 DAY4-5： 在兰卡威不能错过自驾环岛，陆上体验完了，可以在芭雅岛潜水，下午即可返回吉隆坡。
 
-## Day1 吉隆坡 Kuala Lumpur 1日游
+## Day1 吉隆坡 Kuala Lumpur
 
 **路线安排：茨厂街(China Town)—马里安曼印度庙—清真寺(National Mosque)—独立广场—双子塔KLCC**
 
 <img src="/images/Malaysia/Malaysia-west-2.jpeg" width="550"/>
 
-## Day2-3 槟城 Penang（"文艺之都"）
+## Day2-3 槟城 Penang
 
 - 乔治市街头艺术 Mirror Georgetown
 - 姓氏桥(姓周桥) Clan Jetty
