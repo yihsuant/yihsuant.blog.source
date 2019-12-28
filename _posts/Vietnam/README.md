@@ -25,7 +25,20 @@ tags: Vietnam
 
 南部的越南，曾经被法国人殖民了一百多年，被美国人管理了二十多年，各种文化在这里汇集，融合，形成了万千风情的神韵，越南南部的城市，每一个地方都有自己独特的魅力和气质。
 
-## 1. 东方巴黎-胡志明
+**证件准备**
+
+- Passport
+- 4G无限高速流量卡
+- money exchange
+
+Day | Date | Dest | Type | Desc
+:-------: | :-------: | :-------:  | :-------: | :-------:
+**Vietnam** |  |  | 新加坡 → 东方巴黎(胡志明) → 沙漠渔村(美奈) → 春暖花开(芽庄) |  
+Day1 | 20120-01-21 | SG - Ho Chi Minh | 16:10 樟宜机场T1 17:15 新山一国际机场T2 |  第一市区
+
+## D1. 东方巴黎-胡志明
+
+<img src="/images/Vietnam/vm-Ho-Chi-Minh-1.jpg" width="700" alt="Ho Chi Minh" />
 
 胡志明推荐景点：圣母教堂、邮局、书店一条街、市政中心、范老五酒吧街、胡志明金融塔。
 
@@ -71,8 +84,10 @@ tags: Vietnam
 ## Reference
 
 - [越南概况][1]
-- [越南超美四城详解（胡志明-美奈-大叻-芽庄）][2]
+- [越南超美四城详解][2]
+- [胡志明必访的9个景点][3]
 
 
 [1]: http://www.mafengwo.cn/baike/10180_3885.html
 [2]: http://www.mafengwo.cn/gonglve/ziyouxing/26920.html
+[3]: https://www.bbkz.com/forum/showthread.php?t=10272450
