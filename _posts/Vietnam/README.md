@@ -6,7 +6,7 @@ categories: Vietnam
 tags: Vietnam
 ---
 
-<img src="/images/Vietnam/Vietnam-logo.png" width="550"/>
+<img src="/images/Vietnam/Vietnam-logo.jpg" width="550"/>
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ tags: Vietnam
 - 避暑高原大叻
 - 东方夏威夷芽庄
 
-<img src="/images/Vietnam/Vietnam-map.png" width="600" alt="越南南部主要城市位置图" />
+<img src="/images/Vietnam/Vietnam-map.png" width="550" alt="越南南部主要城市位置图" />
 
 南部的越南，曾经被法国人殖民了一百多年，被美国人管理了二十多年，各种文化在这里汇集，融合，形成了万千风情的神韵，越南南部的城市，每一个地方都有自己独特的魅力和气质。
 
