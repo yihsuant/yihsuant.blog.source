@@ -1,56 +1,5 @@
----
-title: The Pineapple Incident
-date: 2019-01-19 22:05:21
----
+<!--
 
-湯湯：
+LS0tCnRpdGxlOiBUaGUgUGluZWFwcGxlIEluY2lkZW50CmRhdGU6IDIwMTktMDEtMTkgMjI6MDU6MjEKLS0tCgrmua/mua/vvJoKCuaIkeW3sue2k+W+iOS5heW+iOS5heaykuacieiBr+e5q+S9oOS6hu+8jOacgOi/keWPkeeOsOS4gOS6m+aWsOeahOaVheS6i+OAgeaWsOeahOWPsOipnuOAgeaWsOeahOaEn+aCn++8jOimgeWSjOS9oCBTaGFyZSAuLi4gYWFhCgroqJjlvpfmiJHkuYvliY3mnInmjqjolqbkvaDkuIDnr4flvbHpm4Yg5Y+r5YGaIOOAikhvdyBJIG1ldCB5b3VyIG1vdGhlcuOAiyDnsKHnqLEg44CKSG9344CL77yM5oiR5pio5aSp5pyJ55yL5Yiw56ysIDEwIOmbhu+8jOeZvOePvuWKh+S4reaciemhnuS8vOaIkeWAkeeahOeFqeaDse+8jOS7luWAkeern+eEtueUqOS4gOWAiyBQaW5lYXBwbGUg5bCx5Y+v5Lul5a6M576O5YyW6Kej5oaC5oSB5ZKM54Wp5oOx44CC5omA5Lul5oiR5oOz5ZKM5L2gIFNoYXJlIOmAmemDqOOAgiDorpPmiJHlgJHkuZ/ljJbop6MgbW92ZSBvbiwgbW92ZSBvbi4uLgoKPGltZyBzcmM9Ii90dC9ob3cxMF90dDYuanBlZyIgd2lkdGg9IjQwMCIgL2ltZz4KCj4g44CKVm9pY2Vz44CL77yaIEhlee+8jGl0J3MgbWUgYWdhaW4uIFBsYWluLCB5b3Ugc2VlIGFnYWluLiBQbGVhc2UsICBJ4oCZbSBhIGZvb2wgYWdhaW4uIC4uLgogICAK5Lit6ZaTMTnliIY1NOenkueahOWPsOipnu+8jOaIkeimuuW+l+mdnuW4uOWlve+8mgoKPiBXZSBhZ3JlZWQgdG8gYmUgZnJpZW5kcywgYW5kIG5vdyB5b3UncmUgbWFraW5nIGl0IGFsbCBjb25mdXNpbmcuCj4KPiBObywgSSdtIG5vdC4gTG9vaywgSS1JIGp1c3QgdHVybmVkIG9mZiBteSBicmFpbiBmb3IgdGhlIG5pZ2h0Lgo+Cj4gTm90aGluZydzIGNoYW5nZWQuICoqWW91J3ZlIG1vdmVkIG9uLiBJJ3ZlIG1vdmVkIG9uKiouCgo8aW1nIHNyYz0iL3R0L2hvdzEwX3R0My5qcGVnIiB3aWR0aD0iMzUwIiAvaW1nPgoKPiBMZXQncyBtb3ZlZCBvbi4gSSBtb3ZlZCBvbi4geW91IG1vdmVkIG9uLiB5b3UgYmVsaWV2ZSBtZS4KCjxpbWcgc3JjPSIvdHQvaG93MTBfdHQwLkpQRyIgd2lkdGg9IjM1MCIgL2ltZz4KCue1kOWwvjIx5YiGMjXnp5LnmoTlj7DoqZ7vvIzmiJHoprrlvpfkuZ/lvojmo5LvvJoKCj4gVGhhdCdzIGp1c3QgaG93IGxpZmUgd29ya3Mgc29tZXRpbWVzLiBZb3UgdHVybiBvZmYgeW91ciBicmFpbiBmb3IgYSBuaWdodCwKYW5kIGFsbCB5b3VyIGxlZnQgd2l0aCB0aGUgbmV4dCBkYXkgaXMgYSBiYWQgaGFuZ292ZXIsIC4uLiBhbmQgYSBwaW5lYXBwbGUuCj4gT2gsIHdlIG5ldmVyIGZvdW5kIG91dCB3aGVyZSB0aGF0IHBpbmVhcHBsZSBjYW1lIGZyb20sIGJ1dCBpdCB3YXMgZGVsaWNpb3VzLgo+IAo+IOacieaZguWAmeeUn+a0u+WwseaYr+mAmeaoo++8jOS9oOS4gOaZmuS4iuS4jeeUqOiFpu+8jOetieWIsOS6huesrOS6jOWkqeeVmeS4i+eahOWwseaYr+Wuv+mGieW+jOWatOmHjeeahOW+jOaenCwg6YKE5pyJ5LiA5YCL6I+g6Ji/77yM5oiR5YCR5LiA55u06YO95LiN55+l6YGT5ZOq5YCL6I+g6Ji/5Yiw5bqV5ZOq5L6G55qE77yM5LiN6YGO6YKE6KC75aW95ZCD55qE44CCCgrlhbbku5bmmYLplpPliofpg6jnmoTntpPlhbjlj7DoqZ7vvJoKCj4gVGhlIGZ1dHVyZSBpcyBzY2FyeS4gQnV0IHlvdSBjYW7igJl0IGp1c3QgcnVuIGJhY2sgdG8gdGhlIHBhc3QsIGJlY2F1c2UgaXTigJlzIGZhbWlsaWFyLgo+Cj4g5pyq5L6G5b6I5Y+v5oCV77yM5L2G5piv5L2g5LiN6IO95Zug54K654af5oKJ6YGO5Y675bCx5LiA55u05b6F5Zyo5Y6f5L6G55qE5Zyw5pa544CCCj4KPiBZb3UgY2FuJ3QgY2xpbmcgdG8gdGhlIHBhc3QsIGJlY2F1c2Ugbm8gbWF0dGVyIGhvdyB0aWdodGx5IHlvdSBob2xkIG9uLCBpdCdzIGFscmVhZHkgZ29uZS4KPgo+IOS9oOS4jeiDveWwjemBjuWOu+WUuOW/teS4jeW/mO+8jOWboOeCuueEoeirluS9oOaKiuWbnuaGtuaKk+W+l+Wkmue3iu+8jOWug+aXqeW3suaChOeEoeiBsuaBr+WcsOa2iOWkseOAggoK5rmv5rmv77yM6YCa6YGO6YCZ5YCL5YqH77yaCgo+IOaIkeabtOWKoOebuOS/oe+8jOaIkeWAkeS4gOWumuacgyDmnInog73lipvvvIzmnInmmbrmhafvvIzmnInog7jmh7cg5L6G6Kej5rG6IFBpbmVhcHBsZSBpbmNpZGVudCwg6ZuW54S25LiN5a6M5YWo5LiA5qij77yM5oiR6Ka65b6X5pyJ5Lqb6aGe5Ly86bue77yM5omA5Lul5oiR5Lmf5rqW5YKZ5ZKM5L2gIHNoYXJlIOS4gOeoriBGcnVpdC4g6K6T5oiR5YCR5oWi5oWi5oGi5b6p6YGO5Y6755qE5ouY6Ky55ZKM55yf5a+m77yM57aT6YGO5rOi5oqY5ZCO55qE55yf5a+m77yM5LiA5a6a5pu05Yqg5ZKM6Kun54+N6LK044CCIOS4jeiDvemAmeaoo+S4gOebtOWGt+iZleeQhuS4i+WOu+S6hu+8jOmCo+ecn+eahOi2heiuk+S6uueXm+W/g+OAgiDmua/mua/kvaDkuIDlkJHpmb3lhYnplovmnJcuIFNv77yMTGV04oCZcyBtb3ZlZCBvbi4gSSBtb3ZlZCBvbi4geW91IG1vdmVkIG9uLiBJIGNhbiBkbyBpdC4geW91IGNhbiBkbyBpdC4KCuaIkeWFiOWOu+Wwi+aJvuS4gOeoriBGcnVpdO+8jOaJvuWIsOWQjuWGjeWSjOS9oCBTaGFyZSDlhbHpkZLvvIwg5L2c54K65LiA5YCL5oWi5oWi5oGi5b6p55qE6Imv5aW96ZaL5aeL5ZCnLi4uIPCfpJ3wn6Sd8J+knQoKPiAtIFvlhajpg6jlvbHpm4bvvIzoq4vmiLMgSG93X1MwMUUxMC5tcDRdKGh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9ibGFpcjEwMXYvdmlkZW9zLzExNTgzOTAzMDc2NTI2NTMvKe+8jCDnnJ/lj6/lvbHpn7/kuIDlgIvkurrnmoTlg7nlgLzop4DjgIHlj4vmg4Xop4DjgIHmhJvmg4Xop4AuLi4sIOWMheWQq+igu+WkmuS6uueUn+WTsueQhu+8jOWQjOaZguaRu+mbnOePvuWvpuWboOe0oC4KClsxXTogaHR0cDovL3Rvb2wub3NjaGluYS5uZXQvZW5jcnlwdD90eXBlPTMK
 
-我已經很久很久沒有聯繫你了，最近发现一些新的故事、新的台詞、新的感悟，要和你 Share ... aaa
-
-記得我之前有推薦你一篇影集 叫做 《How I met your mother》 簡稱 《How》，我昨天有看到第 10 集，發現劇中有類似我們的煩惱，他們竟然用一個 Pineapple 就可以完美化解憂愁和煩惱。所以我想和你 Share 這部。 讓我們也化解 move on, move on...
-
-<img src="/tt/how10_tt6.jpeg" width="400" /img>
-
-> 《Voices》： Hey，it's me again. Plain, you see again. Please,  I’m a fool again. ...
-   
-中間19分54秒的台詞，我覺得非常好：
-
-> We agreed to be friends, and now you're making it all confusing.
->
-> No, I'm not. Look, I-I just turned off my brain for the night.
->
-> Nothing's changed. **You've moved on. I've moved on**.
-
-<img src="/tt/how10_tt3.jpeg" width="350" /img>
-
-> Let's moved on. I moved on. you moved on. you believe me.
-
-<img src="/tt/how10_tt0.JPG" width="350" /img>
-
-結尾21分25秒的台詞，我覺得也很棒：
-
-> That's just how life works sometimes. You turn off your brain for a night,
-and all your left with the next day is a bad hangover, ... and a pineapple.
-> Oh, we never found out where that pineapple came from, but it was delicious.
-> 
-> 有時候生活就是這樣，你一晚上不用腦，等到了第二天留下的就是宿醉後嚴重的後果, 還有一個菠蘿，我們一直都不知道哪個菠蘿到底哪來的，不過還蠻好吃的。
-
-其他時間劇部的經典台詞：
-
-> The future is scary. But you can’t just run back to the past, because it’s familiar.
->
-> 未來很可怕，但是你不能因為熟悉過去就一直待在原來的地方。
->
-> You can't cling to the past, because no matter how tightly you hold on, it's already gone.
->
-> 你不能對過去唸念不忘，因為無論你把回憶抓得多緊，它早已悄無聲息地消失。
-
-湯湯，通過這個劇：
-
-> 我更加相信，我們一定會 有能力，有智慧，有胸懷 來解決 Pineapple incident, 雖然不完全一樣，我覺得有些類似點，所以我也準備和你 share 一種 Fruit. 讓我們慢慢恢復過去的拘謹和真實，經過波折后的真實，一定更加和諧珍貴。 不能這樣一直冷處理下去了，那真的超讓人痛心。 湯湯你一向陽光開朗. So，Let’s moved on. I moved on. you moved on. I can do it. you can do it.
-
-我先去尋找一種 Fruit，找到后再和你 Share 共鑒， 作為一個慢慢恢復的良好開始吧... 🤝🤝🤝
-
-> - [全部影集，請戳 How_S01E10.mp4](https://www.facebook.com/blair101v/videos/1158390307652653/)， 真可影響一個人的價值觀、友情觀、愛情觀..., 包含蠻多人生哲理，同時摻雜現實因素.
-
-[1]: http://tool.oschina.net/encrypt?type=3
+-->

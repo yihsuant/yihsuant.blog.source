@@ -8,30 +8,11 @@ p + p {
 }
 </style>-->
 
-### Hi, yihsuan
+<!--
 
-很久沒有再見面，很久沒有再联系..
+IyMjIEhpLCB5aWhzdWFuCgrlvojkuYXmspLmnInlho3opovpnaLvvIzlvojkuYXmspLmnInlho3ogZTns7suLgoK5LiN55+l6YGT5L2g6YKE5aW95LmI77yfIOaIkeacgOi/keW+iOWlve+8jOS4gOWIh+mDveigu+mghuW/g+eahO+8jOW3peS9nOeUn+a0u+mDveigu+WWnOatoeePvuWcqOeahOawm+WcjeeahC4KCuS7iuWkqeaYr+mdnuW4uOajkueahOS4gOWkqe+8jOaJgOS7peaIkeaDs+mCgOiri+S9oDIwMjDmlrDlubTlt6blj7PnmoTmmYLplpPvvIzkvobmlrDliqDlnaHnjqkuCgo8aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjIlOyIgc3JjPSIvaW1hZ2VzL1NpbmdhcG9yZS9zZzEuanBnIiB3aWR0aD0iNTUwIi8+CgrpgoDoq4vkvaDnmoTnkIbnlLHmmK/vvJoKCi0g5paw5Yqg5Z2h5rqr5bqm5b6I5aW977yM6Led6Zui5ZKM5buj5bee5Y+w54Gj5Lmf6YO96L+RCi0g5paw5Yqg5Z2h5Zyo5paw5bm05pmC5YCZ54eI5YWJ5b6I576O77yM6YGp5ZCI5L6G546p55qELgotIOW+iOWkmuWci+WutuS9oOmDveWOu+mBjuS6hu+8jOWPr+iDvemChOaykuS+humBjuWdoQotIOWwseaYr+aIkeaDs+iuk+S9oOS+hvCfmI4KCj4g5rmv5rmv77yM5L2g5L6G5ZCn77yM5oiR5LiN5pyD5YaN57Wm5L2g5aOT5Yqb5ZKM5Zuw5oOR77yM5oiR55CG6Kej5L2g77yM5Lmf5LqG6Kej5L2g55qE5b+D5oSP5bey5rG6LiDmiJHoqJjlvpfkvaDmnIDlvozoqqrnmoToqbHvvIzmiJHlgJHpg73lv4XpoIjotbDlkJHlkIToh6rnmoTmnKrkvoYuIOS9huaYr+aIkeaDs+aIkeWAkemdnuW4uOWlve+8jOS9oOWPiOi2hemZveWFieecn+iqoOWWhOiJr++8jOaIkeaDs+e4veacg+WPr+S7peaciei+puazleino+axuuWVj+mhjO+8jOWMluino+W/g+S4reeahOiKpeiSguOAggo+Cj4g5oiR55CG6Kej5L2g55qE6Zec5YiH5ZKM6aGn5oWu77yMIOaIkeS4gOebtOmDvemdnuW4uOmdnuW4uOeXm+W/g++8jOS9huaYr+aIkeefpemBk+aZguWFieWGjeS5n+S4jeacg+WbnuWOu+S6hu+8jOaJgOS7peaIkeaDs+S7peWPsueCuumRku+8jOePvuWcqOWSjOacquS+huWBmuacieaEj+e+qeeahOS6i++8jOaIkeW4jOacm+S9oOiDveS+hu+8jOaIluiAheS4jeS+v+aIkeWAkeWPr+WcqOa6nemAmu+8jOS9oOS4jeaDs+iuk+aIkeW4tuS9oOeOqeS5n+aykumXnOS/gu+8jOaIkeWwseiri+S9oOWQg+asoeWlveWQg+eahCBob3Rwb3Qg5Lmf5Y+vLiAKIArnlbbnhLbkuZ/lj6/mnIk6IPCfh6/wn4e1RGFzc2ksIHJveWNlLCBJY2UgQ3JlYW0sIEN1c3RhcmQgYW5kIFRlYSBCb2Jvc2hha2UuLi4gW0JlY2tvbl0KCjwhLS08aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjIlOyIgc3JjPSIvaW1hZ2VzL2Zvb2QvMjAxOS0xMS0yOS5qcGciIHdpZHRoPSI0NTAiLz4tLT4K
 
-不知道你還好么？ 我最近很好，一切都蠻順心的，工作生活都蠻喜歡現在的氛圍的.
-
-今天是非常棒的一天，所以我想邀請你2020新年左右的時間，來新加坡玩.
-
-<img style="border-radius:2%;" src="/images/Singapore/sg1.jpg" width="550"/>
-
-邀請你的理由是：
-
-- 新加坡溫度很好，距離和廣州台灣也都近
-- 新加坡在新年時候燈光很美，適合來玩的.
-- 很多國家你都去過了，可能還沒來過坡
-- 就是我想讓你來😎
-
-> 湯湯，你來吧，我不會再給你壓力和困惑，我理解你，也了解你的心意已決. 我記得你最後說的話，我們都必須走向各自的未來. 但是我想我們非常好，你又超陽光真誠善良，我想總會可以有辦法解決問題，化解心中的芥蒂。
->
-> 我理解你的關切和顧慮， 我一直都非常非常痛心，但是我知道時光再也不會回去了，所以我想以史為鑒，現在和未來做有意義的事，我希望你能來，或者不便我們可在溝通，你不想讓我帶你玩也沒關係，我就請你吃次好吃的 hotpot 也可. 
- 
-當然也可有: 🇯🇵Dassi, royce, Ice Cream, Custard and Tea Boboshake... [Beckon]
-
-<!--<img style="border-radius:2%;" src="/images/food/2019-11-29.jpg" width="450"/>-->
+-->
 
 ### Recent wish
 
@@ -41,7 +22,7 @@ Best wishes, All the best
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please let me know if any case.      
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yours Sincerely Blair..
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yours Sincerely Blair Chan
 
 ### Music line
 
