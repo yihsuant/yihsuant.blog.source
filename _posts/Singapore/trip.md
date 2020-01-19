@@ -45,6 +45,8 @@ tags: Singapore
 
 ## Day6: 植物花草购物（乌节路 →） 
 
+## Day7: 新加坡校园（NUS、NTU →） 
+
 ## Reference
 
 - [Singapore 7days][1]
