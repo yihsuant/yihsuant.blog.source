@@ -6,7 +6,9 @@ categories: Japan
 tags: Japan
 ---
 
-<img src="/images/Japan/jp-logo-3.jpg" width="550"/>
+<!--<img src="/images/Japan/jp-logo-3.jpg" width="550"/>-->
+
+<img src="/images/Japan/Japan_tour_map.gif" width="550"/>
 
 <!-- more -->
 
