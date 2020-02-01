@@ -8,6 +8,8 @@ tags: New_Zealand
 
 <img src="/images/NZA/nza-map.png" width="550"/>
 
+<!-- more -->
+
 ## 默认段落
 
 **证件准备**
@@ -26,7 +28,7 @@ Day | Date | Dest | Type | Hotel
 
 [纽村速览](https://www.mafengwo.cn/baike/10544_11485.html)
 
-在纽村旅行，参加当地活动是非常重要的一部分。包括**跳伞**、冰川徒步、喷射快艇、峡湾渡轮等。
+在纽村旅行，参加当地活动是非常重要的一部分。包括 **跳伞**、冰川徒步、喷射快艇、峡湾渡轮等。
 
 **北岛**
 
