@@ -61,6 +61,9 @@ Day | Date | Dest | Type | Time
 - [澳大利亚🇦🇺新西兰🇳🇿之旅](https://www.mafengwo.cn/i/16860082.html)
 - [新西兰南岛必去小镇大解析][2]
 - [从一段历史开始的澳新之旅（澳大利亚＋新西兰）](https://www.mafengwo.cn/i/11235034.html)
+- [澳大利亚 Australia](http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10202.html)
+- [澳大利亚10日妙趣亲子线路](http://www.mafengwo.cn/mdd/route/10202_99300.html)
+- [澳大利亚和新西兰经典10日线路](http://www.mafengwo.cn/mdd/route/10202_94428.html)
 
 [1]: https://www.mafengwo.cn/i/14508535.html
 [2]: http://www.mafengwo.cn/gonglve/ziyouxing/223798.html
