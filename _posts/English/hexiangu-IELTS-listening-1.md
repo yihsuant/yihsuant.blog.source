@@ -23,9 +23,17 @@ tags: IELTS
 
 by and as 很重要
 
-## IELTS NOTE
+## 1. Common Word
 
-Monday -> SUnday
+Week | Phonetic symbol | Sentence Example
+:----: | :----:  | :----: 
+Monday | 英 ['mʌndeɪ]  | I went back to work on Monday.
+Tuesday | 英 ['tjuːzdeɪ]  | He phoned on Tuesday, just before you came.
+Wednesday | 英 [ˈwenzdeɪ] | Come and have supper with us on Wednesday, if you're free.
+Thursday | 英 ['θɜːzdeɪ] | I'm usually free between Tuesday and Thursday. |
+Friday | 英 [ˈfraɪdeɪ]  | Mr. Cook is intending to go to the Middle East on Friday.
+Saturday | 英 [ˈsætədɪ; -deɪ] | He called her on Saturday morning at the studio.
+Sunday | 英 [ˈsʌndeɪ; ˈsʌndi] | I thought we might go for a drive on Sunday. |
 
 1~12月份
 
