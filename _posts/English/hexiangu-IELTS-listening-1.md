@@ -20,8 +20,17 @@ tags: IELTS
 - 熟悉替换和改写 
 - 明确考试格式要求
 
+### 体力活：背单字, 前2后2，注意限制
 
-by and as 很重要
+<img src="/images/IELTS/he-1-1.png" width="750" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-2.png" width="750" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-3.png" width="750" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-4.png" width="750" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-5.jpg" width="750" alt="Are you ready?"/>
 
 ## 1. Common Word
 
@@ -35,20 +44,16 @@ Friday | 英 [ˈfraɪdeɪ]  | Mr. Cook is intending to go to the Middle East on 
 Saturday | 英 [ˈsætədɪ; -deɪ] | He called her on Saturday morning at the studio.
 Sunday | 英 [ˈsʌndeɪ; ˈsʌndi] | I thought we might go for a drive on Sunday. |
 
-1~12月份
+Title | Sentence Example
+:----: | :----: 
+January —— Jan. | It's quite warm for January. [ˈdʒænjuəri]
+February —— Feb. | The second month of the year is February.
+March —— Mar. | This term will begin on March 1st.
+April - Apr. May - May. | **June**[dʒuːn] Jun, July — Jul. **August** — Aug. 
+September — Sept. October — Oct. | November — Nov. December — Dec.
 
-holment
-place
-comment
+double zero seven, 26个字母发音练习准确, 单词整体发音
 
-double zero seven
-
-26个字母发音练习准确
-单词整体发音
-
-### 体力活：背单字
-
-前2后2，注意限制
 
 ## 01.10
 
