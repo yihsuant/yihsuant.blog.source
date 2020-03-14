@@ -24,18 +24,31 @@ tags: IELTS
 
 找正确答案句的原则 **SLOP**, 我的任务就是 **化繁而简**
 
+<img src="/images/IELTS/he-4-1.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-2.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-3.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-4.png" width="700" alt="Are you ready?"/>
+
 ## 2. SLOP
 
  - S: Same Words
- - L: Linking Word (But, however, and, like, so, thus, because, as, as a result of, lead to, then, another, also)
+ - L: **`Linking Word`** (But, however, and, like, so, thus, because, 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; as, as a result of, lead to, then, another, also)
  - O: Order
  - P: paraphrase
-
- **boring 替换 tame**
  
  配对日，替换法宝
 
-animal (wildlife) care (look after)
+> **boring 替换 tame**
+> 
+> animal (wildlife) 
+> 
+> care (look after)
+
+<img src="/images/IELTS/he-4-5.png" width="700" alt="Are you ready?"/>
 
 ## 3. 配对题表格总结
 
@@ -47,18 +60,6 @@ animal (wildlife) care (look after)
 17 | Duncan | = building
 18 | Judith | retail = sales
 
-- Such as - like
-
-<img src="/images/IELTS/he-4-1.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/he-4-2.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/he-4-3.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/he-4-4.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/he-4-5.png" width="700" alt="Are you ready?"/>
-
 <img src="/images/IELTS/he-4-6.png" width="700" alt="Are you ready?"/>
 
 <img src="/images/IELTS/he-4-7.png" width="700" alt="Are you ready?"/>
@@ -69,14 +70,7 @@ animal (wildlife) care (look after)
 
 <img src="/images/IELTS/he-4-10.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-4-11.png" width="700" alt="Are you ready?"/>
-
-[www.freeice.com](http://freerice.com/#/english-vocabulary/1392)
-
-<img src="/images/IELTS/he-4-12.png" width="700" alt="Are you ready?"/>
-
-
-## 第三部分难，长配对
+## 4. 第三部分难，长配对
 
 **长配对题更多时间看选项**
 
@@ -84,20 +78,12 @@ animal (wildlife) care (look after)
 
 抽象的词，改为具体的行为
 
-## 改写题
+<img src="/images/IELTS/he-4-11.png" width="700" alt="Are you ready?"/>
 
- 短改写 (word 与 phrase 改写，要重点复习)
- 长改写
- 
-### 短改写
+[www.freeice.com](http://freerice.com/#/english-vocabulary/1392)
 
- 1. 词性改写
- 2. 同义词
- 3. 同类词
- 4. 解释说明
- 5. 双重否定
- 6. 代词替换
- 7. 语境
- 8. 简单颠倒
+<img src="/images/IELTS/he-4-12.png" width="700" alt="Are you ready?"/>
+
+
 
 
