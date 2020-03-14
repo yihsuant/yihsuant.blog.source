@@ -50,18 +50,6 @@ distract
 
 remain fertile
 
-### Section3
-
-多选题难度很大
-
-originally intend， investigate
-
-taken for granted 理所应当的
-
-BD 正确，但是 AB 给你一半的分
-
-选择题出题目无序 (多选题，写答案顺序也无序， BD, DB 都可以)
-
 <img src="/images/IELTS/he-6-1.png" width="700" alt="Are you ready?"/>
 
 <img src="/images/IELTS/he-6-2.png" width="700" alt="Are you ready?"/>
@@ -79,6 +67,18 @@ BD 正确，但是 AB 给你一半的分
 <img src="/images/IELTS/he-6-8.png" width="700" alt="Are you ready?"/>
 
 <img src="/images/IELTS/he-6-9.png" width="700" alt="Are you ready?"/>
+
+### Section3
+
+多选题难度很大
+
+originally intend， investigate
+
+taken for granted 理所应当的
+
+BD 正确，但是 AB 给你一半的分
+
+选择题出题目无序 (多选题，写答案顺序也无序， BD, DB 都可以)
 
 
 
