@@ -1,5 +1,5 @@
 ---
-title: IELTS Listening 4 - b
+title: IELTS Listening 4 - 配对题
 toc: true
 top: 1
 date: 2020-03-14 18:14:48
@@ -11,41 +11,20 @@ tags: IELTS
 
 <!-- more -->
 
-
-
-## 01.10
-
-雅思地图
-
-• 复盘练习 • 不懂就问 • 时间宝贵
-
-• 绕过七坑 • 踏实总结 • 多读多抄
- 
-小写都会被改
-
-> 老师我想等那个人不理我呢，因为她变了. 小写容易改.
-> 
-> 按照题号顺序听答案
-
-
-## 01.12
-
-- Such as - like
-
-### 考勤速递，阅读机经
+## 1. 考勤速递，阅读机经
 
 提升做题能力是重要的
 
-第二部分：生活化一些  
-第三部分：学术类一些
+> 第二部分：生活化一些  
+> 第三部分：学术类一些
 
 雅思出题形式不只用一次
 
-何仙姑的必考词汇 *** 认真复习
+何仙姑的必考词汇认真复习
 
 找正确答案句的原则 **SLOP**, 我的任务就是 **化繁而简**
 
-SLOP: 
+## 2. SLOP
 
  - S: Same Words
  - L: Linking Word (But, however, and, like, so, thus, because, as, as a result of, lead to, then, another, also)
@@ -58,7 +37,7 @@ SLOP:
 
 animal (wildlife) care (look after)
 
-## 配对题表格总结
+## 3. 配对题表格总结
 
 题号 | 听到题目 | 听到答案 | 翻译
 :----: | :----:  | :----:  | :----: 
@@ -68,9 +47,34 @@ animal (wildlife) care (look after)
 17 | Duncan | = building
 18 | Judith | retail = sales
 
-先定位题目
+- Such as - like
 
-录音回去练习3遍
+<img src="/images/IELTS/he-4-1.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-2.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-3.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-4.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-5.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-6.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-7.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-8.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-9.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-10.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-4-11.png" width="700" alt="Are you ready?"/>
+
+[www.freeice.com](http://freerice.com/#/english-vocabulary/1392)
+
+<img src="/images/IELTS/he-4-12.png" width="700" alt="Are you ready?"/>
+
 
 ## 第三部分难，长配对
 
@@ -96,86 +100,4 @@ animal (wildlife) care (look after)
  7. 语境
  8. 简单颠倒
 
-## 第五课
 
- 1.雅思陷阱
- 
- 正确答案 不清楚 或者 替换词
- 干扰选项得清楚
- 
- working on 正在制作
- 
- ## 01.13
- 
-  1. 原词听到的选项，谨慎跳过
-
-  单选题最终的答案，都是经过改写的，不改的很少
-
-local people = the public
-unusual
-local press = newspapers
-sculpture == statue
-
-1/3 == 定位
-1/3 == 替换，转折phrase
-1/3 == 选项替换
-1 == 其他2项目不选的原因
-
-
-### 总结之后至少听3遍
-
-rather than
-hardly
-had expected 本来以为
-
-
-### 剑14
-
-看选项时候要横向比较
-
-不方便看的话，就把书撕一撕
-
-早晨不要吃米饭和馒头，这样容易发困，怕饿备一块巧克力
-
-液体少的浓缩咖啡会帮你提神
-
-7点之前需要起床，不要喝粥和米粉汤
-
-到了考场7：30
-
-不要思考的太多
-
-## 看40题的全部过程
-
-flute 各种乐器要会
-
-全部大写能都听到
-
-电影名字不会改，数字大写引号不改
-
-竖向阅读，重复信息不用看了
-
-cloakroom 单词发音语法是阅读速度的基础
-corridor
-
-sitting area 客厅
-
-controversy [ˈkɒntrəvɜːsi] 争论
-
-taken seriously 被认真对待
-
-distract
-
-remain fertile
-
-### Section3
-
-多选题难度很大
-
-originally intend， investigate
-
-taken for granted 理所应当的
-
-BD 正确，但是 AB 给你一半的分
-
-选择题出题目无序 (多选题，写答案顺序也无序， BD, DB 都可以)
