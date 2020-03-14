@@ -22,15 +22,26 @@ tags: IELTS
 
 ### 体力活：背单字, 前2后2，注意限制
 
-<img src="/images/IELTS/he-1-1.png" width="750" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-1.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-1-2.png" width="750" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-2.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-1-3.png" width="750" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-3.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-1-4.png" width="750" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-4.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-1-5.jpg" width="750" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-5.jpg" width="760" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-6.png" width="760" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-7.png" width="760" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-8.png" width="760" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-9.png" width="760" alt="Are you ready?"/>
+
+<img src="/images/IELTS/he-1-10.png" width="760" alt="Are you ready?"/>
+
 
 ## 1. Common Word
 
