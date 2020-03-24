@@ -31,9 +31,29 @@ tags: IELTS
 
 <img src="/images/IELTS/he-1-9.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/IELTS/he-1-10.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/he-1-10.png" width="760" alt="对答案原则"/>
+
+> **programme/program, center/centre**
+>
+> **(the) kitchen**
+> 
+> **three / 3**
+> 
+> **reject/refuse, flat/apartment**
 
 <img src="/images/IELTS/he-1-11.png" width="760" alt="Are you ready?"/>
+
+> **frog / 45 / 657 trees**
+
+<img src="/images/IELTS/he-1-11-important.png" width="760" alt="Are you ready?"/>
+
+> **I don't know Sydney very well**
+>
+> **If they want to make a night of it**
+> 
+> can you just **give me an idea of** the location of the hotel?
+
+<img src="/images/IELTS/he-1-11-important2.png" width="760" alt="Are you ready?"/>
 
 <img src="/images/IELTS/he-1-12.png" width="760" alt="Are you ready?"/>
 
