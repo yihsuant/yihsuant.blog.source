@@ -17,6 +17,14 @@ tags: IELTS
 
 <img src="/images/IELTS/he-2-1.1.png" width="700" alt="Are you ready?"/>
 
+> Clarinet [ˌklærə'net]
+>
+> horn [hɔːrn]
+> 
+> route [ruːt]
+> 
+> out of bounds 英 [aʊt ɒv baʊndz] (某事物）被禁止;（某地）禁止进入
+
 <img src="/images/IELTS/he-2-2.png" width="700" alt="Are you ready?"/>
 
 <img src="/images/IELTS/he-2-3.png" width="700" alt="Are you ready?"/>
