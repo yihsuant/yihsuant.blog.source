@@ -1,5 +1,5 @@
 ---
-title: IELTS Listening 3 - blank filling Map 地图填空题
+title: IELTS Listening 3 - blank filling Map 带图题 & 地图题
 toc: true
 top: 1
 date: 2020-03-14 17:14:48
@@ -10,8 +10,6 @@ tags: IELTS
 <img src="/images/IELTS/heqiong.jpeg" width="550" alt="Are you ready?"/>
 
 <!-- more -->
-
-## 01.10
 
 雅思地图
  

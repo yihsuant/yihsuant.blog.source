@@ -42,8 +42,6 @@ tags: IELTS
 
 <img src="/images/IELTS/he-2-1.4.png" width="900" alt="IELTS"/>
 
-<img src="/images/IELTS/he-2-1.5.png" width="900" alt="IELTS"/>
-
 <img src="/images/IELTS/he-2-1.6.png" width="900" alt="IELTS"/>
 
 <img src="/images/IELTS/he-2-2.png" width="700" alt="Are you ready?"/>
@@ -73,7 +71,7 @@ tags: IELTS
 > 2 to 9 == 8:58
 > 8:30 == half past eight
 > 
-> quarter of the hundred
+> quarter of the hundred 四分之一
 > quarter to night == 8:45
 > 
 > 
@@ -104,4 +102,5 @@ direction [dɪˈrekʃn] 2:09
 
 <img src="/images/IELTS/he-2-8.png" width="900" alt="定位非常非常重要"/>
 
+<img src="/images/IELTS/he-2-9.png" width="900" alt="定位非常非常重要"/>
 
