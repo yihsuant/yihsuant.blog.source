@@ -6,7 +6,7 @@ categories: NewZealand
 tags: NewZealand
 ---
 
-<img src="/images/newzealand/nz-logo.jpg" width="300" alt="Auckland New Zealand" />
+<img src="/images/newzealand/nz-logo.jpg" width="800" alt="Auckland New Zealand" />
 
 <!-- more -->
 
