@@ -2,8 +2,8 @@
 title: NZA Travel plan 🇳🇿🇦🇺
 toc: true
 date: 2020-01-27 18:46:48
-categories: New_Zealand
-tags: New_Zealand
+categories: NewZealand
+tags: New Zealand
 ---
 
 <img src="/images/NZA/nza-map.png" width="550"/>

@@ -2,8 +2,8 @@
 title: Home for studying in New Zealand
 toc: true
 date: 2020-04-04 09:31:48
-categories: Auckland 
-tags: New_Zealand
+categories: NewZealand
+tags: New Zealand
 ---
 
 <img src="/images/newzealand/nz-logo.jpg" width="800" alt="Auckland New Zealand" />
