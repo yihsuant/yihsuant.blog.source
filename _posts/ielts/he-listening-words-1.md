@@ -1,7 +1,6 @@
 ---
 title: IELTS Listening 1 - 雅思听力必考词汇
 toc: true
-top: 1
 date: 2020-03-19 17:14:48
 categories: English
 tags: IELTS

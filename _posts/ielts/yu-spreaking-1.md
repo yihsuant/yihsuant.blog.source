@@ -1,7 +1,6 @@
 ---
 title: Oral Language 1 - Simon312 2020 口语考试形式一览
 toc: true
-top: 1
 date: 2020-03-28 17:14:48
 categories: English
 tags: IELTS

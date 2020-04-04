@@ -1,7 +1,6 @@
 ---
 title: IELTS Listening 1 - 雅思入门常识
 toc: true
-top: 1
 date: 2020-02-27 17:14:48
 categories: English
 tags: IELTS

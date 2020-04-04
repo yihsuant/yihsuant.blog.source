@@ -1,7 +1,6 @@
 ---
 title: Oral Language 1 - 杨帅口语
 toc: true
-top: 1
 date: 2020-03-29 14:14:48
 categories: English
 tags: IELTS
