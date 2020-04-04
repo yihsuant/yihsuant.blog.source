@@ -10,11 +10,11 @@ tags: NewZealand
 
 <!-- more -->
 
-## 1. NZ 8 University
+**NZ 8 University**
 
 <img src="/images/newzealand/nz-8-university-rank.png" width="600" alt="8 University in New Zealand" />
 
-### 1.1 university of anckland
+## 1. university of anckland
 
 <img src="/images/newzealand/universityofanckland-logo.jpeg" width="600" alt="www.auckland.ac.nz" />
 
@@ -32,7 +32,23 @@ tags: NewZealand
 > 
 > PGD -> Master 1years full-time, Bachelor -> Master 2years full-time
 
-### 1.2 university of canterbury
+## 2. university of otago
+
+<img src="/images/newzealand/otago-1.jpg" width="600" alt="www.otago.ac.nz" />
+
+> [Postgraduate Diploma in Science (PGDipSci)](https://www.otago.ac.nz/courses/qualifications/pgdipsci.html) Computer Science	NZ$34,755	 	 	S1, 
+> 
+> a one-year programme which builds on an undergraduate science degree. 
+> 
+> [Postgraduate English language requirements](https://www.otago.ac.nz/international/future-students/otago661288.html#subnavpg) 
+> 
+> IELTS Score of 6.5 in the academic module (with no individual band below 6.0)
+> 
+> [Science Qualifications](https://www.otago.ac.nz/courses/qualifications/index.html#science)
+> 
+> Master of Science (MSc) Computer Science NZ$34,755 S1, at least two years of full-time study
+
+## 3. university of canterbury
 
 <img src="/images/newzealand/uc-student.jpg" width="700" alt="www.canterbury.ac.nz" />
 
@@ -50,23 +66,7 @@ tags: NewZealand
 >
 > **Master:** 2years, 2020	Varies	Special (Set) Programme Fee	$38,400 per 120 points
 
-### 1.3 university of otago
-
-<img src="/images/newzealand/otago-1.jpg" width="600" alt="www.otago.ac.nz" />
-
-> [Postgraduate Diploma in Science (PGDipSci)](https://www.otago.ac.nz/courses/qualifications/pgdipsci.html) Computer Science	NZ$34,755	 	 	S1, 
-> 
-> a one-year programme which builds on an undergraduate science degree. 
-> 
-> [Postgraduate English language requirements](https://www.otago.ac.nz/international/future-students/otago661288.html#subnavpg) 
-> 
-> IELTS Score of 6.5 in the academic module (with no individual band below 6.0)
-> 
-> [Science Qualifications](https://www.otago.ac.nz/courses/qualifications/index.html#science)
-> 
-> Master of Science (MSc) Computer Science NZ$34,755 S1, at least two years of full-time study
-
-### 1.4 auckland university of technology
+## 4. auckland university of technology
 
 <img src="/images/newzealand/Institusi-AUT-paling-internasional-NZ-Kampus-0.jpg" width="700" alt="www.aut.ac.nz" />
 
