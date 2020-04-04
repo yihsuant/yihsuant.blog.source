@@ -3,7 +3,7 @@ title: Auckland Study Abroad
 toc: true
 date: 2019-05-17 21:31:48
 categories: NewZealand 
-tags: New Zealand
+tags: NewZealand
 ---
 
 <img src="/images/Auckland/Auckland-2.jpg" width="550" alt="Auckland New Zealand" />

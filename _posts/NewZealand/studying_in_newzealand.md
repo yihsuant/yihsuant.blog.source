@@ -3,7 +3,7 @@ title: Studying in New Zealand
 toc: true
 date: 2020-04-04 09:31:48
 categories: NewZealand
-tags: New Zealand
+tags: NewZealand
 ---
 
 <img src="/images/newzealand/nz-logo.jpg" width="800" alt="Auckland New Zealand" />
