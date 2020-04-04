@@ -56,3 +56,7 @@ all is your personal life
 ## Second Class
 
 连贯性，逻辑
+
+地点结尾的，说从句，有时候是 where，有时候是 which
+
+commercial
