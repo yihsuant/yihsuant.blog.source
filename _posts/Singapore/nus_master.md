@@ -1,7 +1,6 @@
 ---
 title: National University of Singapore
 toc: true
-top: 1
 date: 2020-01-12 15:46:48
 categories: Singapore
 tags: Singapore
