@@ -21,6 +21,12 @@ tags: IELTS
 
 <img src="/images/IELTS/oral/yu-1.5.png" width="900" alt=""/>
 
+> 5W, 
+>
+> **since barely do I have time to take care of them. but in the future**, I will think about keeping them.   说不对，停顿一定扣分. send plants as gifts.
+> 
+> 不能在脑海中： 中翻英，要不然会很吃亏，讲错了就会扣分， 我们只是来讨要 score 的.
+
 <img src="/images/IELTS/oral/yu-1.6.png" width="890" alt=""/>
 
 ## 2. Part2 的学习
