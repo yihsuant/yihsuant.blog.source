@@ -1,6 +1,7 @@
 ---
 title: Studying in New Zealand
 toc: true
+top: 1
 date: 2020-04-04 09:31:48
 categories: NewZealand
 tags: NewZealand
@@ -31,6 +32,8 @@ tags: NewZealand
 > [Masters degree entry requirements](https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/research-postgraduate-entry-requirements.html), [Master of Science](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html) 
 > 
 > PGD -> Master 1years full-time, Bachelor -> Master 2years full-time
+> 
+> [研究生课程申请截止日期](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-application-closing-dates.html)
 
 ## 2. university of otago
 

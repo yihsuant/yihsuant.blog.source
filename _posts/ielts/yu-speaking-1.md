@@ -35,6 +35,8 @@ Part2在最短时间之内熟悉我们的场景内容，做到不跑题熟练即
 
 <img src="/images/IELTS/oral/yu-1.6.1.png" width="880" alt=""/>
 
+**part1 and part2 不要跑题就行**
+
 ## 3. Part 3 七个高分公式纵览
 
 <img src="/images/IELTS/oral/yu-1.7.png" width="890" alt=""/>
