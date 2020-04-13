@@ -10,6 +10,8 @@ tags: IELTS
 
 <!-- more -->
 
+## 1. class
+
 第一篇阅读最简单，第2或3最难
 
 LOH： 首二末
@@ -43,7 +45,7 @@ Heading 是段落大意
 2. 例题
 3. 笔记放在旁边，做题
 
-## class 2
+## 2. class
 
 做题的功能是**熟悉方法**
 
@@ -69,3 +71,52 @@ date 今天
 > 
 > LOH 全部paragraph都使用
 
+一般题型：为非 LOH 之外的题
+
+## 3. class
+
+<img src="/images/IELTS/reading/jack-3.1.png" width="800" alt="2020.2.9jack阅读技巧班"/>
+
+> 如果考点词，没有名次复数，则退而求其次选实意的动词和名词
+> 
+> 预测， 如果选，那么这段话一定会讲到**? 考点词**
+
+**做 LOH 步骤：**
+
+1. 考点词
+2. 预测
+3. reading 文章
+
+> 雅思会有很多难理解的文章，但是不影响你做题
+>
+> 当我们题材特别难的时候，题型往往比较人性化基础，接地气
+
+<img src="/images/IELTS/reading/jack-3.2.png" width="700" alt="2020.2.9jack阅读技巧班"/>
+
+> 当读到一段落，很难的时候，难以选择，可以继续读第一个段
+
+**A & B 不是两口子的，难题：**
+
+<img src="/images/IELTS/reading/jack-3.3.png" width="700" alt="2020.2.9jack阅读技巧班"/>
+
+**C paragraph == ii**
+
+<img src="/images/IELTS/reading/jack-3.4.png" width="700" alt="B paragraph 空着，C paragraph的答案"/>
+
+**NB1 ： E <=> i**
+
+<img src="/images/IELTS/reading/jack-3.5.png" width="700" alt="B paragraph 空着，C paragraph的答案"/>
+
+**蓝色箭头，表示 有A，没有B，所以不选该项**
+
+<img src="/images/IELTS/reading/jack-3.6.png" width="700" alt=""/>
+
+<img src="/images/IELTS/reading/jack-3.7.png" width="700" alt="蓝色箭头，表示 有A，没有B，所以不选该项"/>
+
+### 3.2 841 例题
+
+这是 Section， 不是 paragraph，所以 NB1 方法是失效的.
+
+<img src="/images/IELTS/reading/jack-3.8.png" width="700" alt="reason"/>
+
+<img src="/images/IELTS/reading/jack-3.9.png" width="700" alt="确认 + 排除"/>
