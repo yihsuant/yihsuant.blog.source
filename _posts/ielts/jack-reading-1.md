@@ -120,3 +120,21 @@ date 今天
 <img src="/images/IELTS/reading/jack-3.8.png" width="700" alt="reason"/>
 
 <img src="/images/IELTS/reading/jack-3.9.png" width="700" alt="确认 + 排除"/>
+
+## 4. 配对题 (2.12jack第三节)
+
+<img src="/images/IELTS/reading/jack-matching-3.1.png" width="700" alt="定位词：大写和数字"/>
+
+短matching的定位词的**第一次**出现，一定是有序的
+
+> 上下三行，包含三行内的完整句子
+> 
+> tip of the iceberg
+
+## 5. 判断题
+
+能选 T 也能学 F，那么其实就是选 NG
+
+<img src="/images/IELTS/reading/jack-TF-3.1.png" width="700" alt="能选 T 也能学 F，那么其实就是选 NG"/>
+
+<img src="/images/IELTS/reading/jack-TF-3.2.png" width="700" alt="01：34"/>
