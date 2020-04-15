@@ -107,12 +107,12 @@ Listening 本身这件事，不能控制你大脑, 所以要想办法. (听到 a
 
 <img src="/images/IELTS/listening/he-2-5.png" width="700" alt="格式要求：大小写，单复数，连字符"/>
 
-**连字符：** （有连字符就写单数的形式， 有连字符的词在一起，就算一个word）
+**连字符：** （有`连字符就写单数`的形式， 有连字符的词在一起，就算一个word）
 
 > 10 minutes' walk
 > 10-minute walk
 > 4-year-old child 
-> son-in-law
+> `son-in-law`
 
 <img src="/images/IELTS/listening/he-2-5.1.png" width="700" alt="以上都算一个数字"/>
 
