@@ -122,6 +122,8 @@ Listening 本身这件事，不能控制你大脑, 所以要想办法. (听到 a
 
 <img src="/images/IELTS/listening/he-2-6.png" width="700" alt="因为你连基本的都搞不定，先考到7.5分，你怎么样都行"/>
 
+2020.04.15 video 01:30, 开始审题:
+
 <img src="/images/IELTS/listening/he-2-7.png" width="700" alt="至少有7道送分题"/>
 
 - IELTS 不是考全程理解， 不知道他说了什么，很正常
