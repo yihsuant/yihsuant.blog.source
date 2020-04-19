@@ -6,10 +6,10 @@ categories: Taiwan
 tags: Taiwan
 ---
 
-<!--<a href="window.location.href" target="_self"><img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/></a>-->
+<img src="/images/taiwan/taiwan-trip-logo-1.jpg" width="550" border="0" alt="台灣旅行"/>
 
-<a href="/2018/07/22/taiwan/my_taiwan_trip/" target="_self" style="display:block; margin:0 auto; background:url('/images/taiwan/taiwan-trip-logo-1.jpg') no-repeat 0 0 / contain; height:550px; width:550px;"></a>
-
+<!--<a href="/2018/07/22/taiwan/my_taiwan_trip/" target="_self" style="display:block; margin:0 auto; background:url('/images/taiwan/taiwan-trip-logo-1.jpg') no-repeat 0 0 / contain; height:550px; width:550px;"></a>
+-->
 
 <!-- more -->
 
