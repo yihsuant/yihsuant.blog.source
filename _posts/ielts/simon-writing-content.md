@@ -22,6 +22,16 @@ title: Writing - Simon 学写作
 
 #### Homelessness
 
+#### a gap between the rich and the poor
+
+#### traffix congestion
+
+#### a sense of community
+
+#### concrete jungles
+
+### 1.3 人行道
+
 ## 2. Traditional vs Modern
 
 ## 3. Television, Internet, Phones
