@@ -89,6 +89,14 @@ road rage
 
 认真读题， 理清逻辑关系，在写
 
-## 5. 
+## 5. 小作文
 
+a significant increase could be seen in the proportion of the elderly.
+
+- 对比
+- 对比 + 变化 (变化容易说)
+
+先总结，在拆开
+
+<img src="/images/IELTS/writing/du-5.2.png" width="850" alt=""/>
 
