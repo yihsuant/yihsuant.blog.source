@@ -24,119 +24,61 @@
 
 ## 2. Traditional vs Modern
 
+### 失去的传统技艺
+
+### 传统风俗
+
+### 传统与现代
+
 ## 3. Television, Internet, Phones
+
+### 电视的优缺点
+
+### 网络的优缺点
+
+### 手机的优缺点
 
 ## 4. Animals
 
+### 4.1 支持动物实验
+
+#### scientific research
+
+#### medical tests 、 new drugs
+
+#### Animal testing
+
+#### experimentation on animals
+
+#### cosmetics industry
+
+### 4.2 反对动物实验
+
+#### suffering
+
+#### alternative methods of research
+
+#### moral right, experiments on animals
+
 ## 5. Crime
+
+### 5.1 警察与预防犯罪
+
+### 5.2 惩罚 / 监狱
 
 ## 6. Work
 
-## 7. Advertising
+### 做同样一份work的好处
 
-## 8. Environment
+### 做不同work的好处
 
-## 9. Family
+### 创业 / 失业
 
-## 10. Health
+### 失业救济的利弊
 
-## 11. Transport
+### 工作与生活的平衡
 
-## 12. Education
+### 工作中的技术
 
-### 教育的优点
 
-### 留学的利弊
-
-### 技术在教育中的利弊
-
-### 发展中国家的教育
-
-### 家庭教育
-
-## 13. Consume
-
-### 金钱与社会
-
-### 消费主义的优点
-
-### 消费主义的弊端
-
-## 14. Tourism
-
-### 旅游的优点
-
-### 旅游的消极影响
-
-### 旅游业的未来
-
-## 15. Guns and Weapons
-
-### 为什么一些国家枪支合法
-
-### 为什么持有枪非法
-
-### 警察配枪
-
-### 武器贸易的利弊
-
-### 核武器
-
-### 军队的积极和消极作用
-
-## 16. Global issues
-
-### 发展中国家的问题
-
-#### developing countries
-
-### 如何帮助发展中国家
-
-### 移民
-
-### 移民与多元文化社会的优点
-
-### 全球化的利弊
-
-## 17. Water
-
-## 18. Sport and Leisure
-
-## 19. Gender
-
-## 20. Personality
-
-### 幸福
-
-#### a feeling of pleasure
-
-#### a sense of achievement
-
-### 成功
-
-#### Millionaires  [ˌmɪljəˈneəz]
-
-#### long-term planning and effort
-
-### 天性与环境
-
-#### determined by genetics[dʒəˈnetɪks]、inherit[ɪnˈherɪt]
-
-#### nurture、nature. shape personalities
-
-#### destinies、self-made
-
-## 21. Language
-
-### 国际化语言
-
-#### dominant language
-
-#### necessary skill
-
-#### minority languages disappear
-
-## 22. Goverment and Society
-
-## 23. Housing and Architecture
 
