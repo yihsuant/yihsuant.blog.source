@@ -14,7 +14,7 @@
 
 #### a gap between the rich and the poor
 
-#### traffix congestion
+#### traffic congestion
 
 #### a sense of community
 
