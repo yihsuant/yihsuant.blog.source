@@ -73,7 +73,7 @@
 
 #### open-minded and tolerant ['tɑːlərənt]
 
-#### multi-cultural societies
+#### multi-cultural societies [səˈsaɪətiz]
 
 #### work permit
 
