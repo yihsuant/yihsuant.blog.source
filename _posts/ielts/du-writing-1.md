@@ -14,7 +14,15 @@ tags: IELTS
 
 相邻2句话, 基本句型不重复
 
-<img src="/images/IELTS/writing/du-0-1.png" width="850" alt=""/>
+<img src="/images/IELTS/writing/du-0-1.png" width="800" alt=""/>
+
+- many people will become jobless.
+- Cycling has been losing popularity.
+- There has been a decrease in the popularity of cycling.
+
+<img src="/images/IELTS/writing/du-0-2.png" width="700" alt=""/>
+
+0.2 class 20:00
 
 
 > 及格分数  6.5， CC 从 5to7 的飞跃

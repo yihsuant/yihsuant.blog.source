@@ -31,17 +31,63 @@
 
 ## 16. Global issues
 
-### 发展中国家的问题
+### developing countries issues
 
-#### developing countries
+#### developing countries, developed countries
+
+#### standards of healthcare
+
+#### life expectancy
+
+#### lack of infrastructure
+
+#### basic medicines
+
+#### short supply
 
 ### 如何帮助发展中国家
 
+#### development aid
+
+#### investing in long-term projects
+
+#### charities
+
+#### Multi-national companies
+
+#### improve the standard of living
+
 ### 移民
+
+#### search of a better life
+
+#### immigrants
+
+#### industrialized countries
+
+#### free healthcare and schooling
 
 ### 移民与多元文化社会的优点
 
+#### culture diversity
+
+#### open-minded and tolerant ['tɑːlərənt]
+
+#### multi-cultural societies
+
+#### work permit
+
 ### 全球化的利弊
+
+#### Multi-national companies
+
+#### a global economy, free trade between countries
+
+#### strengthen political relationships
+
+#### reduce poverty in the developing world
+
+#### global regulations
 
 ## 17. Water
 
@@ -51,55 +97,5 @@
 
 ### 水资源是否免费
 
-## 18. Sport and Leisure
 
-### 支持竞技体育
-
-### 竞技体育
-
-### 体育与政治
-
-## 19. Gender
-
-### 性别与教育
-
-### 性别与工作
-
-### 女人与男人在家庭中的角色
-
-## 20. Personality
-
-### 幸福
-
-#### a feeling of pleasure
-
-#### a sense of achievement
-
-### 成功
-
-#### Millionaires  [ˌmɪljəˈneəz]
-
-#### long-term planning and effort
-
-### 天性与环境
-
-#### determined by genetics[dʒəˈnetɪks]、inherit[ɪnˈherɪt]
-
-#### nurture、nature. shape personalities
-
-#### destinies、self-made
-
-## 21. Language
-
-### 国际化语言
-
-#### dominant language
-
-#### necessary skill
-
-#### minority languages disappear
-
-## 22. Goverment and Society
-
-## 23. Housing and Architecture
-
+globalization
