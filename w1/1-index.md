@@ -189,8 +189,14 @@
 #### experienced staff
 #### responsibility
 #### gain experience
+
+### 做不同work的好处
+
 #### offer a promotion or a higher salary
 #### occupation
+
+### 创业 / 失业
+
 #### set up a company
 #### self-employed people
 #### self-employment
@@ -217,10 +223,6 @@
 #### make education a priority
 #### remuneration 报酬 
 #### professional achievements
-
-### 做不同work的好处
-
-### 创业 / 失业
 
 ### 失业救济的利弊
 
