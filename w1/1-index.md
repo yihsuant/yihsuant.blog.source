@@ -142,36 +142,36 @@
 
 ### 5.1 警察与预防犯罪
 
-#### 抓犯人 catch criminals
-#### 防止犯罪 prevent crime
+#### catch criminals
+#### prevent crime
 #### 警察（两种说法）police officers
-#### 社区的一部分 part of community
-#### 辍学 drop out of school                           
+#### part of community
+#### drop out of school                           
 #### 职业训练 vocational training
-#### 帮派 gangs
-#### 轻微犯罪 minor crimes
-#### 监狱 prison
-#### 威胁社会安全 pose a threat to society
-#### 犯罪分子（三种说法） offenders/criminals/prisoners
-#### 惯犯 re-offend
-#### 犯罪记录criminal record
-#### 改造 rehabilitation
+#### gangs 帮派
+#### minor crimes 轻微犯罪 
+#### prison
+#### pose a threat to society
+#### offenders/criminals/prisoners
+#### re-offend
+#### criminal record
+#### rehabilitation 改造
 #### 死刑(两种说法) capital punishment/the death penalty
-#### 不可饶恕的 not tolerated
-#### 关押 imprisonment/lock up
-#### 无辜的人 innocent people
-#### 定罪 convicted
-#### 犯罪率 crime rates
-#### 暴力文化 violent cultural
-#### 社区服务 community service
-#### 过度拥挤的监狱 overcrowding prison
-#### 回报社区 repay their community
-#### 受害者 victims
-#### 罪案实录 crime stories
-#### 耸人听闻的案件 sensational crimes
-#### 公众对罪犯的恐慌 fear of crime among the public
-#### 徒刑 prison sentence
-#### 违反者 lawbreakers
+#### not tolerated 不可饶恕的 
+#### imprisonment/lock up 关押 
+#### innocent people 无辜的人 
+#### convicted 定罪
+#### crime rates
+#### violent cultural
+#### community service
+#### overcrowding prison
+#### repay their community 回报社区 
+#### victims 受害者 
+#### crime stories 罪案实录 
+#### sensational crimes 耸人听闻的案件 
+#### fear of crime among the public 公众对罪犯的恐慌 
+#### prison sentence 徒刑 
+#### lawbreakers 违反者 
 
 ### 5.2 惩罚 / 监狱
 
@@ -202,19 +202,25 @@
 #### self-employment
 #### make a profit
 #### pensions,sick pay and holiday pay
-#### job satisfaction
 #### unemployment     
 #### sufficient level of education or qualifications
 #### frustration 挫败感 
 #### careers advice
 #### vocational courses and retraining (职业课程)
 #### financial support
+
+### 失业救济的利弊
+
 #### governments pay unemployment benefits
 #### a burden on taxpayers
 #### achieve a balance between work time and leisure or family time
+
+### 工作与生活的平衡
+
 #### workaholics 工作狂       
 #### work overtime
 #### flexible working hours
+#### job satisfaction
 #### productive
 #### video conferencing
 #### exploited 剥削
@@ -223,10 +229,6 @@
 #### make education a priority
 #### remuneration 报酬 
 #### professional achievements
-
-### 失业救济的利弊
-
-### 工作与生活的平衡
 
 ### 工作中的技术
 
