@@ -16,11 +16,13 @@
 
 ## Most frequently questions
 
-### Major/work
+### study Major/work
 
 #### Are you a student or do you work？
 
 #### Where/why/Is your major popular？
+
+### Accommodation (the area you live)
 
 ### Hometown/housing
 
