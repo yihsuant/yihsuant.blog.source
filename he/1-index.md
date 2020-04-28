@@ -38,8 +38,32 @@
 
 ### 7坑词表
 
-#### priorities [praɪˈɒrɪtiz]
+#### priorities [praɪˈɒrɪtiz], timetable
 
-#### timetable
+#### roadway,road surface
 
-39：01
+### Map (方位&地点)
+
+#### top/bottom/left/right (标下)
+
+#### corner/bend 看懂图上加的符号
+
+#### exit/entrance/gate/door/access
+
+#### arrow, far left, far side
+
+#### junction,intersection,walk down, 剧院走廊
+
+#### but but but...another, New
+
+### Map 做题技巧
+
+#### 标注方位
+
+#### 圈所有地名猜发音
+
+#### 按照题号顺序在图中标记答案,数字
+
+#### 问题小写=改写,可能无法直接定位
+
+#### 留意逻辑关系连接词
