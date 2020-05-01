@@ -26,10 +26,6 @@ unusual
 local press = newspapers
 sculpture == statue
 
-1/3 == 定位
-1/3 == 替换，转折phrase
-1/3 == 选项替换
-1 == 其他2项目不选的原因
 
 ### 总结之后至少听3遍
 
@@ -55,9 +51,11 @@ had expected 本来以为
 
 <img src="/images/ielts/listening/he-5-9.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-example-1.png" width="700" alt="Good 1"/>
+<img src="/images/ielts/listening/he-5-example-1.png" width="800" alt="Good 1"/>
 
 <img src="/images/ielts/listening/he-5-10.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/ielts/listening/he-5-example-2.png" width="800" alt="Good 1"/>
 
 <img src="/images/ielts/listening/he-5-11.png" width="700" alt="Are you ready?"/>
 

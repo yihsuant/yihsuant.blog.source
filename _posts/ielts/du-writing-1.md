@@ -3,10 +3,10 @@ title: Writing - 杜仕明
 toc: true
 date: 2020-04-16 07:14:48
 categories: English
-tags: IELTS
+tags: ielts
 ---
 
-<img src="/images/IELTS/writing/du-writing-logo.jpg" width="550" alt="1. 扣题 2. 说原因 3. 扩展举例 4. 扣回题目"/>
+<img src="/images/ielts/writing/du-writing-logo.jpg" width="550" alt="1. 扣题 2. 说原因 3. 扩展举例 4. 扣回题目"/>
 
 <!-- more -->
 
@@ -14,13 +14,13 @@ tags: IELTS
 
 相邻2句话, 基本句型不重复
 
-<img src="/images/IELTS/writing/du-0-1.png" width="800" alt=""/>
+<img src="/images/ielts/writing/du-0-1.png" width="800" alt=""/>
 
 - many people will become jobless.
 - Cycling has been losing popularity.
 - There has been a decrease in the popularity of cycling.
 
-<img src="/images/IELTS/writing/du-0-2.png" width="700" alt=""/>
+<img src="/images/ielts/writing/du-0-2.png" width="700" alt=""/>
 
 0.2 class 20:00
 
@@ -98,7 +98,7 @@ English 90% 都是后置定语
 
 01:23
 
-<img src="/images/IELTS/writing/du-e1.png" width="850" alt=""/>
+<img src="/images/ielts/writing/du-e1.png" width="850" alt=""/>
 
 `losing popularity`
 
@@ -121,5 +121,5 @@ a significant increase could be seen in the proportion of the elderly.
 
 先总结，在拆开
 
-<img src="/images/IELTS/writing/du-5.2.png" width="850" alt=""/>
+<img src="/images/ielts/writing/du-5.2.png" width="850" alt=""/>
 
