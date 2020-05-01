@@ -1,12 +1,12 @@
 ---
-title: IELTS Listening 2 - 雅思听力必考词汇
+title: ielts Listening 2 - 雅思听力必考词汇
 toc: true
 date: 2020-03-20 17:14:48
 categories: English
-tags: IELTS
+tags: ielts
 ---
 
-<img src="/images/IELTS/he-logo-7.jpg" width="550" alt="Are you ready?"/>
+<img src="/images/ielts/listening/he-logo-7.jpg" width="550" alt="Are you ready?"/>
 
 <!-- more -->
 

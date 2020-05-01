@@ -89,9 +89,65 @@
 
 #### P2 配对
 
-### P3 配对
+### P3 配对（super难,重点看选项）
 
-#### 定位在讲那一个题目，最重要                     
+#### 定位在讲那一个题目，最重要   
+
+#### 动词容易改写，人名隐藏
+
+#### structure=outline,plan=work out,own viewpoint   
+
+## 改写大全
+
+### 1. 改变词性 `perform=performance`
+
+### 2. 同义词 **performance=demonstration**
+
+### 3. 同类词 **red=colored**
+
+### 4. 解释说明 **`interactive=audience...question`**
+
+### 5. 双重否定 **not headlthy=ill**
+
+### 6. 代词替换 **Tom...his book**,**I...speaker**
+
+### 7. 语境 **`在语境下是优秀的，就是successful`**
+
+### 8. 简单颠倒 
+
+#### the earth surface=the surface of the earth
+
+#### A for B = BA
+
+## 雅思陷阱
+
+### 并列 ： **and,also,as well as,then,another,anything else?is that all?**
+
+### 对比 ： **at the same time**
+
+### 顺序 ： **firstly,then,after that,lastly,finally**
+
+### 解释 ： **I mean,this means,in other words**
+
+### 举例 ： **such as,like,for example**
+
+### 转折 ： **but，however，all of a sudden，whereas**
+
+### 因果 ： **because，since，so，therefore**
+
+### 强调 ： **in fact，actually，especially，do+v，of course，important**
+
+### 插入语 ： **let me see，you know**
+
+### 新话题 ： **now，anyway**
+
+### 补充 ： **oh，hang on，wait a minute**
+
+### 心得
+
+#### 正确答案含糊，易替换, 直接念到原词,要狠谨慎陷阱
+
+#### working on 正在做
 
 
 
