@@ -58,7 +58,7 @@
 
 #### arrow, far left, far side
 
-#### junction,intersection,walk down, 剧院走廊
+#### junction,intersection,walk down, corridor 剧院走廊
 
 #### but but but...another, New
 
@@ -147,15 +147,42 @@
 
 #### 正确答案含糊，易替换, 直接念到原词,要狠谨慎陷阱
 
-#### working on 正在做
+#### working on 正在做, brochure suite
+
+#### 竖向阅读，重复信息不用看了
 
 ####  1/3 == 定位
 #### 1/3 == 替换，转折phrase
 #### 1/3 == 选项替换
 #### 1 == 其他2项目不选的原因
 
+## 雅思时间
 
+### Now turn to S1 (第一部分例子已取消)
 
+### 可任意看4个部分,**`题目选项尽量都看 (边看边画圈预判)`**
+
+### S3 最难，挤时间提前看**`多选题很难,要有技巧蒙,审题很重要`**
+
+### 考试当天当你进入考场到开始听,约1hours,要有耐心
+
+### 早晨不要吃馒头/米饭 (鸡蛋玉米瘦肉蔬菜可以)
+
+### 试音环节有音乐,还有前置部分也是不能开卷子的
+
+### **`介词不容易改,from..`**
+
+#### BD or DB✔️, AB half✔️, **`string instrument`**
+
+### **`prizes/award/medal,under/below`**,leading musician/top performers,trying to/intend to
+
+## Practice
+
+### 一周练习一套题
+
+### 注意合理安排时间读题
+
+## 语料库魔鬼(填空题56%)
 
 
 
