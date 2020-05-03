@@ -51,3 +51,26 @@ date: 2020-04-27 08:19:48
 
 ### Describe a place in foreign country you would like to visit
 
+#### Where is it ?
+
+#### When do you want to go
+
+#### What will you do when you go there
+
+#### Why do you want to visit this place
+
+## Part3 (4~5mins)
+
+### Why do people travel in your country?
+
+### When people travel, what kind of aspect do they have to spend money on?
+
+### How has people's way of spending holidays changed over the past years in your country?
+
+### What are the advantages and disadvantages of travling with a guided group?
+
+### What knids of difficulties will a traveler have if they go to abroad?
+
+### Is touism alwasys a good thing for places?
+
+## Thany you, that's the end of the IELTS Speaking test.
