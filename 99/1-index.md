@@ -48,15 +48,24 @@
 
 ## 地点
 
-### 8. There’s a stadium ____ my apartment and entry is free, so I run there sometimes.
+### 8. There’s a stadium ____ my apartment and entry is free, 
 
 #### **`pretty close to`**
 
-#### **`in close proximity to`**
+#### **`in close proximity to [prɒkˈsɪməti]`**
 
-### 9. I had a math tutor before. I would go to a café ____ from my home and learn math from her for two hours every Saturday afternoon.
+### &nbsp;&nbsp;&nbsp;&nbsp;so I run there sometimes. 
 
-#### **`just a short walk away`**
+
+### 9. I had a math tutor before. 
+
+### &nbsp;&nbsp;&nbsp;&nbsp;I would go to a café **`just a short walk away`** from my home 
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and learn math from her for two hours every Saturday afternoon.
+
+####
+
+#### 
 
 ### 10. My favorite ____ in my neighborhood is a bookstore which is ____ my house. 
 
@@ -66,9 +75,19 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;The place has helped me develop a **`passion for reading`**. ['pæʃn]
 
-### 11. My family lives in the city and **`it takes at least two hours to get to`** the countryside by car, so we don’t go very often.
+### 11. My family lives in the city 
+
+####
+
+#### 
+
+### &nbsp;&nbsp;&nbsp;&nbsp; --and **`it takes at least two hours to get to`** the countryside by car, so we don’t go very often.
 
 ### 12. **`It took me 40 minutes`**  to find the movie theater, so inevitably, I missed the opening of the movie.
+
+####
+
+#### 
 
 ## 人物
 
@@ -88,28 +107,26 @@
 
 ## 感受
 
-### 16. I haven’t heard anybody say that they don’t like music. I think music is the best way to **`relax/unwind/reduce stress`**
+### 16. I think music is the best way to **`relax/unwind/reduce stress`**
 
-### 17. One of my neighbors is a good friend of mine. He always has a way to____ 
+### 17. He always has a way to **`help me let go of my stress`**
 
-#### **`help me`**
+### 18. Not only is it good for health, but it also helps people **`loosen up`**.
 
-#### **`let go of my stress`**
-
-### 18. Walking is an underrated activity. Not only is it good for health, but it also helps people **`loosen up`**.
-
-### 19. A very ____ experience I had before was walking through a street market in Thailand.
+### 19. A very ____ experience I had before was walking ...
 
 #### **`enjoyable`**
 
 #### **`pleasant`**
 
 
-### 20. Reading a good book and being transported to another world is such ____ . Nothing can beat that.
+### 20. Reading a good book and being transported to another world is such ____ . 
+
+### &nbsp;&nbsp;&nbsp;&nbsp;Nothing can beat that.
 
 ####  **`a great mood-lifter`**
 
-### 21. I went picnicking with friends last weekend. It helped me clear my head/take my mind off things.
+### 21. It helped me clear my head/take my mind off things.
 
 ### 22. When I achieved my goal of losing 30 pounds within one year, I was beyond excited/overjoyed/on cloud nine/in seventh heaven.
 

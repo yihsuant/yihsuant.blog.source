@@ -13,3 +13,14 @@ date: 2020-04-26 21:19:48
 
 [s1]: /simon_p1
 [99]: /99
+
+
+## 007 Part1 议论文 (太阳法)
+
+Question -> Response -> Orgination Structure
+
+
+### 7.1 生活场景
+
+### 7.1 8词世界观
+
