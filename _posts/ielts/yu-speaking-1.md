@@ -6,7 +6,7 @@ categories: English
 tags: IELTS
 ---
 
-<img src="/images/IELTS/oral/yu.1.1.logo.png" width="550" alt="Simon312 的2020年新题库刷题班"/>
+<img src="/images/ielts/speaking/yu.1.1.logo.png" width="550" alt="Simon312 的2020年新题库刷题班"/>
 
 <!-- more -->
 

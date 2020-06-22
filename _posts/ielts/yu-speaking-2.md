@@ -6,7 +6,7 @@ categories: English
 tags: IELTS
 ---
 
-<img src="/images/IELTS/oral/yu.1.1.logo.png" width="550" alt="Simon312 的2020年新题库刷题班"/>
+<img src="/images/ielts/speaking/simon_yu.logo.jpeg" width="550" alt="Simon312 的2020年新题库刷题班"/>
 
 <!-- more -->
 
@@ -15,11 +15,13 @@ tags: IELTS
 
 **`说一个表达要说到吐血，那反射弧就非常非常短了`.**
 
-**6分: 高频 并且 有明显的暂停**
+> - <= 6分： 高频 并且 有明显的暂停
+> - <= 7分： 撩不到内容，就是逢场作戏，聊完就走了.
 
-7分之内，就是撩不到内容，就是逢场作戏，聊完就走了.
+**Part1**
 
-
+- stating facts 陈述事实， 用5W
+- why (议论文)
 
 ## 1. 必考题
 
@@ -31,3 +33,35 @@ Curently, I am working in a place named xxx,which is a kind of xx,and my positio
 
 
 ### 1.2 Hometown
+
+### 1.3 Plants
+
+中文思维，中翻英 很危险 **8词表格，就是世界走遍哪里都能说.**
+
+题型才是最重要的伴随你: 1. 记叙文 2. 议论文
+
+#### Do you keep plants at home?
+
+NO: honestly,Idon’tkeepanyplantathome,sincebarelydoIhavetimetotakecare ofthem;butinthefuture,Iwilthinkaboutkeepingthem.
+
+### 1.4 Concentration
+
+
+### Art
+
+currently 目前来说
+
+I can recall that..
+
+
+Robust 乐百氏, Crest 佳洁士
+
+HTC = history tranditional culture
+
+## Part2
+
+考官有2套题目
+
+- 人物： 性格词汇表
+- 事件： 心情三段式
+

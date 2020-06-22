@@ -6,7 +6,7 @@ categories: English
 tags: IELTS
 ---
 
-<img src="/images/IELTS/oral/yang-1-logo.jpeg" width="550" alt="2020.3.19杨帅口语高分班"/>
+<img src="/images/ielts/speaking/yang-1-logo.jpeg" width="550" alt="2020.3.19杨帅口语高分班"/>
 
 <!-- more -->
 

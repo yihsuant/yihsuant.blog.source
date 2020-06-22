@@ -93,7 +93,7 @@
 
 ### 13. ____ has a barbershop and I always hang out there, so I get a haircut almost every two weeks.
 
-#### **`One of my closest friends`**
+#### **`One of my closest friends`** [ˈkləʊsɪst] 
 
 #### **`A very good friend of mine`**
 
