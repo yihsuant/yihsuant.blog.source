@@ -51,6 +51,22 @@ tags: NewZealand
 > 
 > Master of Science (MSc) Computer Science NZ$34,755 S1, at least two years of full-time study
 
+Additional tests accepted for 2020 and 2021 intakes only
+For applicants who are unable to access the regular English language proficiency tests we accept, the University of Otago is currently accepting these additional tests for semester 2 2020, semester 1 and semester 2 2021.
+
+Duolingo English Test (DET) with the following scores:
+
+> DET score of 100 for undergraduate entry
+> DET score of 110 for postgraduate entry
+
+IELTS Indicator test
+
+> This is an online version of the regular IELTS test, made available due to COVID-19 testing centre restrictions.
+
+TOEFL iBT Special Home Edition
+
+> This is an online version of the regular TOEFL iBT test, made available due to COVID-19 testing centre restrictions.
+
 ## 3. university of canterbury
 
 <img src="/images/newzealand/uc-student.jpg" width="700" alt="www.canterbury.ac.nz" />
@@ -81,6 +97,17 @@ tags: NewZealand
 > 
 > IELTS (Academic) 6.5 overall with all bands 6.0 or higher; or equivalent
 
+[English language requirements](https://www.aut.ac.nz/study/applying/entry-requirements/english-language-requirements?SQ_VARIATION_148394=0)
+
+COVID-19 situation: additional English tests accepted in 2020
+
+> We understand that completing your English language test in person is difficult during the COVID-19 pandemic. If you’re applying this year to study at AUT in 2020 or 2021, you can now also use the following online tests:
+
+IELTS Indicator
+
+TOEFL Special At Home Edition
+
+> You can’t use an online English test for programmes that require IELTS results because of professional or accreditation requirements.
 
 [tu1]: https://cdn.auckland.ac.nz/aem/content/auckland/en/study/international-students/welcome-landing-pages/chinese/jcr:content/leftpar/imagecomponent/image.img.1024.medium.jpg/1477864095963.jpg
 
