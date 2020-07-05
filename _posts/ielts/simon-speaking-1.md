@@ -2,11 +2,11 @@
 title: Speaking 1 - Simon312 2020 口语考试形式一览
 toc: true
 date: 2020-03-28 17:14:48
-categories: English
+categories: IELTS
 tags: IELTS
 ---
 
-<img src="/images/ielts/speaking/yu.1.1.logo.png" width="550" alt="Simon312 的2020年新题库刷题班"/>
+<img src="/images/IELTS/speaking/yu.1.1.logo.png" width="550" alt="Simon312 的2020年新题库刷题班"/>
 
 <!-- more -->
 
