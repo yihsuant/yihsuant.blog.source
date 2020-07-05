@@ -1,36 +1,36 @@
 ---
-title: ielts Listening 1 - 雅思入门常识
+title: IELTS Listening 1 - 雅思入门常识
 toc: true
 date: 2020-02-27 17:14:48
-categories: English
-tags: ielts
+categories: IELTS
+tags: IELTS
 ---
 
-<img src="/images/ielts/listening/he-logo-1.jpeg" width="550" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-logo-1.jpeg" width="550" alt="Are you ready?"/>
 
 <!-- more -->
 
 ### 体力活：背单字, 前2后2，注意限制
 
-<img src="/images/ielts/listening/he-1-1.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-1.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-2.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-2.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-3.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-3.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-4.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-4.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-5.jpg" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-5.jpg" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-6.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-6.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-7.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-7.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-8.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-8.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-9.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-9.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-10.png" width="760" alt="对答案原则"/>
+<img src="/images/IELTS/listening/he-1-10.png" width="760" alt="对答案原则"/>
 
 > **programme/program, center/centre**
 >
@@ -40,11 +40,11 @@ tags: ielts
 > 
 > **reject/refuse, flat/apartment**
 
-<img src="/images/ielts/listening/he-1-11.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-11.png" width="760" alt="Are you ready?"/>
 
 > **frog / 45 / 657 trees**
 
-<img src="/images/ielts/listening/he-1-11-important.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-11-important.png" width="760" alt="Are you ready?"/>
 
 > **I don't know Sydney very well**
 >
@@ -52,13 +52,13 @@ tags: ielts
 > 
 > can you just **give me an idea of** the location of the hotel?
 
-<img src="/images/ielts/listening/he-1-11-important2.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-11-important2.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-12.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-12.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-13.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-13.png" width="760" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-1-14.png" width="760" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-1-14.png" width="760" alt="Are you ready?"/>
 
 ## Month Word
 
