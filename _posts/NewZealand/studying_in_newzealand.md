@@ -1,7 +1,7 @@
 ---
 title: Studying in New Zealand
 toc: true
-top: 1
+#top: 1
 date: 2020-04-04 09:31:48
 categories: NewZealand
 tags: NewZealand
