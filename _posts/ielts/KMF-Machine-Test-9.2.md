@@ -10,15 +10,7 @@ tags: IELTS
 
 <!-- more -->
 
-## 1. Place for Speaking
-
-<img src="/images/IELTS/kmf/kmf-9-1.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/kmf/kmf-9-2.png" width="700" alt="Are you ready?"/>
-
-<img src="/images/IELTS/kmf/kmf-9-3.jpeg" width="700" alt="Are you ready?"/>
-
-## 2. Listening
+## 1. Listening
 
 错题题号 | 考点 | 具体总结 | 惩罚编数
 :----: | :----: | :----: | :----:
@@ -29,34 +21,68 @@ tags: IELTS
 9-4-4 | grey/gray | 听不出 | 10
 9-4-9 | first year | 答案: year | ~
 
-## 3. Reading
+<img src="/images/IELTS/kmf/kmf-9.2.1.jpeg" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-4.png" width="650" alt="简单提醒先做"/>
+<img src="/images/IELTS/kmf/kmf-9.2.2.jpeg" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-5.png" width="650" alt="Are you ready?"/>
+<img src="/images/IELTS/kmf/kmf-9.2.3.jpeg" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-6.png" width="650" alt="Are you ready?"/>
+<img src="/images/IELTS/kmf/kmf-9.2.4.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-7.png" width="650" alt="Are you ready?"/>
+<img src="/images/IELTS/kmf/kmf-9.2.5.jpeg" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-8.png" width="650" alt="李一老师==李老师"/>
+<img src="/images/IELTS/kmf/kmf-9.2.6.jpeg" width="700" alt="Are you ready?"/>
 
-<details>
-<summary>李一老师 == 李老师</summary>
-<img src="/images/IELTS/kmf/kmf-9-9.png" width="650" alt="李一老师==李老师"/>
+<img src="/images/IELTS/kmf/kmf-9.2.7.jpeg" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-10.png" width="650" alt="李一老师==李老师"/>
+<img src="/images/IELTS/kmf/kmf-9.2.8.png" width="700" alt="Are you ready?"/>
 
-</details>
+<img src="/images/IELTS/kmf/kmf-9.2.9.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.10.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.11.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.12.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.13.png" width="700" alt="Are you ready?"/>
 
 
-<img src="/images/IELTS/kmf/kmf-9-11.png" width="650" alt="李一老师==李老师"/>
+<img src="/images/IELTS/kmf/kmf-9.2.14.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-12.png" width="650" alt="李一老师==李老师"/>
+## 2. Writing
 
-屠龙12字: 抓名词, 去修饰, 排除法, 定动词
+<img src="/images/IELTS/kmf/kmf-9.2.15.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/IELTS/kmf/kmf-9-13.png" width="650" alt="李一老师==李老师"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.16.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.17.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.18.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.19.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.20.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.21.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.22.png" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.23.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.24.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.25.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.26.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.27.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.28.jpeg" width="700" alt="Are you ready?"/>
+
+<img src="/images/IELTS/kmf/kmf-9.2.29.png" width="700" alt="Are you ready?"/>
+
 
 
 
