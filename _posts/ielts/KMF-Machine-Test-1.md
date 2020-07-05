@@ -6,7 +6,7 @@ categories: IELTS
 tags: IELTS
 ---
 
-<img src="/images/IELTS/kmf/kmf-9-logo.jpeg" width="550" alt="Are you ready?"/>
+<img src="/images/kmf/kmf-9-logo.jpeg" width="550" alt="Are you ready?"/>
 
 <!-- more -->
 
