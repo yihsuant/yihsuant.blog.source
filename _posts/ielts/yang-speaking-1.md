@@ -2,11 +2,11 @@
 title: Speaking 1 - 杨帅口语
 toc: true
 date: 2020-03-29 14:14:48
-categories: English
+categories: IELTS
 tags: IELTS
 ---
 
-<img src="/images/ielts/speaking/yang-1-logo.jpeg" width="550" alt="2020.3.19杨帅口语高分班"/>
+<img src="/images/IELTS/speaking/yang-1-logo.jpeg" width="550" alt="2020.3.19杨帅口语高分班"/>
 
 <!-- more -->
 

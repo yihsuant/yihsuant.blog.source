@@ -1,12 +1,12 @@
 ---
-title: Writing - 杜仕明
+title: Writing - 丛昊 & 杜仕明
 toc: true
 date: 2020-04-16 07:14:48
-categories: English
-tags: ielts
+categories: IELTS
+tags: IELTS
 ---
 
-<img src="/images/ielts/writing/du-writing-logo.jpg" width="550" alt="1. 扣题 2. 说原因 3. 扩展举例 4. 扣回题目"/>
+<img src="/images/IELTS/writing/logo-conghao.png" width="550" alt="1. topic 2. hand 3. other hand 4. conclusion"/>
 
 <!-- more -->
 
@@ -14,13 +14,13 @@ tags: ielts
 
 相邻2句话, 基本句型不重复
 
-<img src="/images/ielts/writing/du-0-1.png" width="800" alt=""/>
+<img src="/images/IELTS/writing/du-0-1.png" width="800" alt=""/>
 
 - many people will become jobless.
 - Cycling has been losing popularity.
 - There has been a decrease in the popularity of cycling.
 
-<img src="/images/ielts/writing/du-0-2.png" width="700" alt=""/>
+<img src="/images/IELTS/writing/du-0-2.png" width="700" alt=""/>
 
 0.2 class 20:00
 
@@ -68,11 +68,11 @@ video: 01:30:00
 
 Discuss both views and give your opinion.
 
-English 90% 都是后置定语
+IELTS 90% 都是后置定语
 
 **短语词伙搭配**，很漂亮，这个很给力
 
-可以先构建中文，在转换为 English
+可以先构建中文，在转换为 IELTS
 
 写议论文要考虑逻辑链条。
 
@@ -98,7 +98,7 @@ English 90% 都是后置定语
 
 01:23
 
-<img src="/images/ielts/writing/du-e1.png" width="850" alt=""/>
+<img src="/images/IELTS/writing/du-e1.png" width="850" alt=""/>
 
 `losing popularity`
 
@@ -121,5 +121,5 @@ a significant increase could be seen in the proportion of the elderly.
 
 先总结，在拆开
 
-<img src="/images/ielts/writing/du-5.2.png" width="850" alt=""/>
+<img src="/images/IELTS/writing/du-5.2.png" width="850" alt=""/>
 

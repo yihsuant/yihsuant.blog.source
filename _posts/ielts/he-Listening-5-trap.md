@@ -1,12 +1,12 @@
 ---
-title: ielts Listening 5 - 雅思陷阱 
+title: IELTS Listening 5 - 雅思陷阱 
 toc: true
 date: 2020-03-14 19:14:48
-categories: English
-tags: ielts
+categories: IELTS
+tags: IELTS
 ---
 
-<img src="/images/ielts/listening/he-logo-5.jpg" width="550" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-logo-5.jpg" width="550" alt="Are you ready?"/>
 
 <!-- more -->
 
@@ -33,29 +33,29 @@ rather than
 hardly
 had expected 本来以为
 
-<img src="/images/ielts/listening/he-5-1.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-1.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-2.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-2.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-3.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-3.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-4.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-4.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-5.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-5.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-6.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-6.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-7.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-7.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-8.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-8.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-9.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-9.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-example-1.png" width="800" alt="Good 1"/>
+<img src="/images/IELTS/listening/he-5-example-1.png" width="800" alt="Good 1"/>
 
-<img src="/images/ielts/listening/he-5-10.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-10.png" width="700" alt="Are you ready?"/>
 
-<img src="/images/ielts/listening/he-5-example-2.png" width="800" alt="Good 1"/>
+<img src="/images/IELTS/listening/he-5-example-2.png" width="800" alt="Good 1"/>
 
-<img src="/images/ielts/listening/he-5-11.png" width="700" alt="Are you ready?"/>
+<img src="/images/IELTS/listening/he-5-11.png" width="700" alt="Are you ready?"/>
 
