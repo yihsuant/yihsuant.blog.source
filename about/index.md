@@ -30,7 +30,7 @@ p + p {
 
 <a class="article-myself" href="/about"> Blair Chan</a> 90s, a data engineer, GTD practitioner, live in Singapore, Singapore.
 
-<a class="article-myself" href="https://instagram.com/blair101v/"> Blair Chan</a> focus on python, data analysis, computer science, machine learning.
+<a class="article-myself" href="https://instagram.com/blair101v/"> Blair Chan</a> focus on python, data engineering, computer science, machine learning.
 
 <!--<a class="article-myself" href="/">  Libin Chan</a>-->
 <!-- <img src="/images/tech-logos/2016-10-03-6.png" width="250"  style="margin-left:100px;" /img> -->
