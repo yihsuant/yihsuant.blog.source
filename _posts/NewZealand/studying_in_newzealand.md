@@ -119,5 +119,10 @@ TOEFL Special At Home Edition
 - [小矮人Ellen 出國留學該找代辦嗎？代辦不為人知的秘密!][2]
 - [知乎： 奥克兰大学读硕士一年多少钱?][5]
 
+- [在新西兰当程序员是一种怎样的体验？](https://www.zhihu.com/question/31681654)
+- [Jack Liu博客 --- 关注技术移民政策动向，探讨华人移民热点问题](https://www.jack-liu.com/)
+- [夏勇兴写一辈子代码的创业者](https://www.zhihu.com/people/allentranks)
+- [](https://www.zhihu.com/question/268453561/answer/513074659)
+
 [2]: https://www.youtube.com/watch?v=tAetA8jEpos
 [5]: https://zhuanlan.zhihu.com/p/53605881
