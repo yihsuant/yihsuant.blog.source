@@ -6,7 +6,7 @@ categories: Health
 tags: Skin Care
 ---
 
-<img src="https://pic4.zhimg.com/80/v2-55320b355c674e80d2aea24f7302386c_720w.jpg?source=1940ef5c" width="250" alt="Are you ready?"/>
+<img src="/images/health/health-skin.jpeg" width="350" alt=""/>
 
 <!-- more -->
 
