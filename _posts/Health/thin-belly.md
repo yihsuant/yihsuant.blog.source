@@ -1,7 +1,7 @@
 ---
-title: thin belly
+title: Thin belly
 date: 2020-08-06 22:13:48
-categories: Health
+categories: health
 tags: Lose Weight
 ---
 
@@ -37,7 +37,7 @@ tags: Lose Weight
 
 ## 3⃣ 按摩 疏通经络
 
-按摩真的很有效‼️ 特别是肚子和腿 买个按摩霜和按摩刷 两样加起来也就一百多 学生党表示很满意 用着也挺见效 哈哈哈哈哈 按摩手法 见图 有点粗糙 特别是腿 腿上也有很多经络
+按摩真的很有效‼️ 特别是肚子和腿 买个按摩霜和按摩刷
 
 
 ## 4⃣关于运动
