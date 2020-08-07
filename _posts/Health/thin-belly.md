@@ -2,7 +2,7 @@
 title: Thin belly
 date: 2020-08-06 22:13:48
 categories: health
-tags: Lose Weight
+tags: lose weight
 ---
 
 <img src="/images/health/thin-belly.jpg" width="550" alt=""/>
