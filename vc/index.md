@@ -3,7 +3,7 @@ title: Career
 date: 2020-08-08 14:46:48
 ---
 
-<img src="/vincy/career1.png" width="500"/>
+<img src="/vc/career1.png" width="500"/>
 
 
 ## Seagroup
@@ -18,7 +18,7 @@ date: 2020-08-08 14:46:48
 
 - [Product Available Positions](https://careers.shopee.sg/jobs/?region_id=1&dept_id=108&level=205,201&name=Product&limit=20&offset=0)
 
-<img src="/vincy/career2.png" width="800"/>
+<img src="/vc/career2.png" width="800"/>
 
 ## Tiktok
 
