@@ -34,9 +34,16 @@ Evaluation is carried out based on a combination of factors such as academic deg
 
 ### 2.3 Requirements Admission
 
+
 [Coursework-Based Programmes](http://www.nus.edu.sg/registrar/prospective-students/graduate/graduate-admissions#collapseOne) → [Graduate Programme & Contacts](http://www.nus.edu.sg/registrar/prospective-students/graduate/graduate-programme-contacts)
 
 major
+
+English IELTS: 6.0
+
+- [Master of Technology in Software Engineering](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-software-engineering)
+
+- [Master of Technology in Enterprise Business Analytics](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-enterprise-business-analytics)
 
 - [Master of Technology in Knowledge Engineering](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-intelligent-systems)
 
