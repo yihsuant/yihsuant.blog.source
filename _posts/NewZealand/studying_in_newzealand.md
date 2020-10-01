@@ -7,17 +7,17 @@ categories: NewZealand
 tags: NewZealand
 ---
 
-<img src="/images/newzealand/nz-logo.jpg" width="800" alt="Auckland New Zealand" />
+<img src="/images/NewZealand/nz-logo.jpg" width="800" alt="Auckland New Zealand" />
 
 <!-- more -->
 
 **NZ 8 University**
 
-<img src="/images/newzealand/nz-8-university-rank.png" width="600" alt="8 University in New Zealand" />
+<img src="/images/NewZealand/nz-8-university-rank.png" width="600" alt="8 University in New Zealand" />
 
 ## 1. university of anckland
 
-<img src="/images/newzealand/universityofanckland-logo.jpeg" width="600" alt="www.auckland.ac.nz" />
+<img src="/images/NewZealand/universityofanckland-logo.jpeg" width="600" alt="www.auckland.ac.nz" />
 
 > New Zealand is the most famous university in the world. The school is located in the center of Auckland, the largest city in New Zealand, with convenient life and colorful after-school activities.
 >
@@ -37,7 +37,7 @@ tags: NewZealand
 
 ## 2. university of otago
 
-<img src="/images/newzealand/otago-1.jpg" width="600" alt="www.otago.ac.nz" />
+<img src="/images/NewZealand/otago-1.jpg" width="600" alt="www.otago.ac.nz" />
 
 > [Postgraduate Diploma in Science (PGDipSci)](https://www.otago.ac.nz/courses/qualifications/pgdipsci.html) Computer Science	NZ$34,755	 	 	S1, 
 > 
@@ -69,7 +69,7 @@ TOEFL iBT Special Home Edition
 
 ## 3. university of canterbury
 
-<img src="/images/newzealand/uc-student.jpg" width="700" alt="www.canterbury.ac.nz" />
+<img src="/images/NewZealand/uc-student.jpg" width="700" alt="www.canterbury.ac.nz" />
 
 > Postgraduate: 2020	60	Special (Set) Programme Fee	$19,200
 > 
@@ -87,7 +87,7 @@ TOEFL iBT Special Home Edition
 
 ## 4. auckland university of technology
 
-<img src="/images/newzealand/Institusi-AUT-paling-internasional-NZ-Kampus-0.jpg" width="700" alt="www.aut.ac.nz" />
+<img src="/images/NewZealand/Institusi-AUT-paling-internasional-NZ-Kampus-0.jpg" width="700" alt="www.aut.ac.nz" />
 
 > [Postgraduate Diploma in Computer and Information Sciences](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/postgraduate-diploma-in-computer-and-information-sciences)
 > 
