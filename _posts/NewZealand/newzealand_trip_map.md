@@ -6,13 +6,13 @@ categories: NewZealand
 tags: NewZealand
 ---
 
-<img src="/images/NewZealand/nz-sourth-north.jpg" width="800" alt="Auckland New Zealand" />
+<img src="/images/newzealand/nz-sourth-north.jpg" width="800" alt="Auckland New Zealand" />
 
 <!-- more -->
 
 
 
-<img src="/images/NewZealand/nz-trip-s1.jpg" width="800" alt="Auckland New Zealand" />
+<img src="/images/newzealand/nz-trip-s1.jpg" width="800" alt="Auckland New Zealand" />
 
 ## Reference
 
