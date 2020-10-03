@@ -1,7 +1,7 @@
 ---
 title: Skin Care for Male
 toc: true
-date: 2020-08-02 08:13:48
+date: 2018-08-02 08:13:48
 categories: health
 tags: Skin Care
 ---
@@ -30,23 +30,15 @@ tags: Skin Care
 
 ### 1.1 防晒伞
 
-<img src="https://pic1.zhimg.com/80/v2-7705b112418c0a49e5bebf01725ea35d_720w.jpg?source=1940ef5c" width="350" alt="安晴 vs 蕉下小黑伞 279¥/曜黑"/>
-
 ### 1.2 防晒霜
-
-<img src="https://pic1.zhimg.com/80/v2-90e7511669dbe5b678bcd4a13dd9144f_720w.jpg?source=1940ef5c" width="350" alt="Are you ready?"/>
 
 ## 2. 美白护肤
 
 ### 2.1 洗面奶
 
-<img src="https://pic1.zhimg.com/80/v2-d273691d6cb2fc8e98c9d660fc5dd37a_720w.jpg?source=1940ef5c" width="350" alt="遇见香芬男士氨基酸磨砂洗面奶 98¥/80g"/>
-
 ### 2.2 烟酰胺
 
 Olay prox方程式 216¥/40ml
-
-<img src="https://pic2.zhimg.com/80/v2-4e89ca2bcacbb8269ea709c99319b673_720w.jpg?source=1940ef5c" width="550" alt="Are you ready?"/>
 
 总结：
 
