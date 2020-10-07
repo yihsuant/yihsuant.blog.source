@@ -54,5 +54,7 @@ English IELTS: 6.0
 ## Reference
 
 - [NUS 硕士申请及新生入学全过程][1]
+- [新西兰限制外国人买房：PR就一定能买新西兰的房产吗？][house]
 
 [1]: https://www.yan.sg/nussuoshi/
+[house]: https://prosperityfinance.co.nz/zh-CN/blog/xin-xi-lan-xian-zhi-wai-guo-ren-mai-fang--pr-jiu-yi-ding-neng-mai-xin-xi-lan-di-fang-chan-ma-
