@@ -10,6 +10,8 @@ tags: Singapore
 
 <!-- more -->
 
+[So what makes Singapore attractive to foreign entrepreneurs and firms？為什麼無論是個人還是企業都愛移民新加坡？](https://www.youtube.com/watch?v=kT3Yk1J-18E)
+
 ## 1. Natioanal University
 
 Natioanal University of Singapore，其主要有
