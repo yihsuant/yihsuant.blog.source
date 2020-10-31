@@ -1,15 +1,17 @@
 ---
 title: Trip in New Zealand
 toc: true
-date: 2020-10-01 09:31:48
+date: 2020-10-31 09:31:48
 categories: NewZealand
 tags: NewZealand
 ---
 
-<img src="/images/newzealand/nz-sourth-north.jpg" width="800" alt="Auckland New Zealand" />
+
+<img src="/images/newzealand/nz_flag.jpg" width="550" alt="Auckland New Zealand" />
 
 <!-- more -->
 
+<img src="/images/newzealand/nz-sourth-north.jpg" width="800" alt="Auckland New Zealand" />
 
 
 <img src="/images/newzealand/nz-trip-s1.jpg" width="800" alt="Auckland New Zealand" />
