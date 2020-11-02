@@ -1,7 +1,7 @@
 ---
 title: Studying in New Zealand
 toc: true
-#top: 1
+top: 1
 date: 2020-04-04 09:31:48
 categories: NewZealand
 tags: NewZealand
@@ -23,6 +23,9 @@ tags: NewZealand
 >
 > [Postgraduate English language requirements](https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/postgraduate-english-language-requirements.html)
 > 
+> Pearson Test of English (PTE) Academic*
+Overall score of 58 and no PTE Communicative score below 50
+>
 > IELTS (Academic)	Overall score of 6.5 and no bands below 6.0
 > 
 > [Postgraduate fees for international students](https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/postgraduate-international-fees.html) NZ$42,814
